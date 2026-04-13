@@ -64,16 +64,16 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| free.reise      | available | $99.99    | $122.99       | 88             | 59     | 4      | name.com  |
-| fast.reise      | premium   | $123.75   | $123.75       | 82             | 53     | 4      | name.com  |
-| live.reise      | available | $99.99    | $122.99       | 108            | 56     | 4      | name.com  |
+| free.reise      | available | $99.99    | $122.99       | 88             | 57     | 4      | name.com  |
 | art.reise       | premium   | $260      | $260          | 90             | 52     | 3      | namecheap |
+| live.reise      | available | $99.99    | $122.99       | 108            | 56     | 4      | name.com  |
+| fast.reise      | premium   | $123.75   | $123.75       | 82             | 52     | 4      | name.com  |
 | data.reise      | available | $127.98   | —             | 70             | 56     | 4      | namecheap |
 | one.reise       | premium   | $500      | $500          | 132            | 50     | 3      | name.com  |
 | good.reise      | available | $99.99    | $122.99       | 82             | 55     | 4      | name.com  |
-| digital.reise   | premium   | $250      | $250          | 100            | 50     | 7      | name.com  |
-| zero.reise      | available | $99.99    | $122.99       | 112            | 53     | 4      | name.com  |
 | life.reise      | premium   | $260      | $260          | 84             | 50     | 4      | namecheap |
+| zero.reise      | available | $99.99    | $122.99       | 112            | 53     | 4      | name.com  |
+| digital.reise   | premium   | $250      | $250          | 100            | 49     | 7      | name.com  |
 | business.reise  | available | $127.98   | —             | 100            | 53     | 8      | namecheap |
 | air.reise       | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap |
 | alpha.reise     | available | $99.99    | $122.99       | 90             | 53     | 5      | name.com  |
@@ -81,9 +81,9 @@ print(df.head())
 | true.reise      | available | $99.99    | $122.99       | 86             | 52     | 4      | name.com  |
 | green.reise     | premium   | $260      | $260          | 108            | 44     | 5      | namecheap |
 | game.reise      | available | $99.99    | $122.99       | 120            | 50     | 4      | name.com  |
+| pop.reise       | premium   | $123.75   | $123.75       | 82             | 44     | 3      | name.com  |
+| abc.reise       | available | $127.98   | —             | 102            | 50     | 3      | namecheap |
 | insurance.reise | premium   | $128.70   | $128.70       | 76             | 44     | 9      | namecheap |
-| design.reise    | available | $99.99    | $122.99       | 108            | 50     | 6      | name.com  |
-| health.reise    | premium   | $260      | $260          | 92             | 43     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
