@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .reise one-word domains from Uniqu
 
 **Public extract:** 9,911 rows · **Live catalog:** 9,911 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/reise`  
 **Best for:** founders, investors, studios
 
@@ -72,14 +72,14 @@ print(df.head())
 | one.reise       | premium   | $500      | $500          | 132            | 50     | 3      | name.com  |
 | good.reise      | available | $99.99    | $122.99       | 82             | 55     | 4      | name.com  |
 | digital.reise   | premium   | $250      | $250          | 100            | 50     | 7      | name.com  |
-| alpha.reise     | available | $99.99    | $122.99       | 90             | 54     | 5      | name.com  |
-| life.reise      | premium   | $260      | $260          | 84             | 50     | 4      | namecheap |
 | zero.reise      | available | $99.99    | $122.99       | 112            | 53     | 4      | name.com  |
-| air.reise       | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap |
+| life.reise      | premium   | $260      | $260          | 84             | 50     | 4      | namecheap |
 | business.reise  | available | $127.98   | —             | 100            | 53     | 8      | namecheap |
+| air.reise       | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap |
+| alpha.reise     | available | $99.99    | $122.99       | 90             | 53     | 5      | name.com  |
 | travel.reise    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap |
 | true.reise      | available | $99.99    | $122.99       | 86             | 52     | 4      | name.com  |
-| green.reise     | premium   | $260      | $260          | 108            | 45     | 5      | namecheap |
+| green.reise     | premium   | $260      | $260          | 108            | 44     | 5      | namecheap |
 | game.reise      | available | $99.99    | $122.99       | 120            | 50     | 4      | name.com  |
 | insurance.reise | premium   | $128.70   | $128.70       | 76             | 44     | 9      | namecheap |
 | design.reise    | available | $99.99    | $122.99       | 108            | 50     | 6      | name.com  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
