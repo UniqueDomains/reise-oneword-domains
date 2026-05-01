@@ -1,10 +1,10 @@
-# Available .REISE One-Word Domains (12,441)
+# Available .REISE One-Word Domains (12,895)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C441%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C895%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .reise one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,441 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,895 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,441 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,895 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/reise`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,8 @@ print(df.head())
 | tips.reise        | premium   | $250      | —             | 80             | 26     | 4      | name.com  |
 | lets.reise        | available | $99.99    | —             | 77             | 39     | 4      | name.com  |
 | pictures.reise    | premium   | $250      | —             | 82             | 17     | 8      | name.com  |
-| stories.reise     | available | $99.99    | —             | 58             | 36     | 7      | name.com  |
 | aliens.reise      | available | $27.89    | $97.99        | 56             | 35     | 6      | namesilo  |
 | spectra.reise     | available | $99.99    | —             | 62             | 34     | 7      | name.com  |
-| etc.reise         | available | $99.99    | —             | 58             | 34     | 3      | name.com  |
 | partners.reise    | available | $99.99    | —             | 61             | 32     | 8      | name.com  |
 | trends.reise      | available | $99.99    | —             | 60             | 32     | 6      | name.com  |
 | William.reise     | available | $127.98   | —             | 74             | 31     | 7      | namecheap |
@@ -84,6 +82,8 @@ print(df.head())
 | SanDiego.reise    | available | $27.89    | $97.99        | 74             | 29     | 9      | namesilo  |
 | Jim.reise         | available | $127.98   | —             | 78             | 28     | 3      | namecheap |
 | gems.reise        | available | $27.89    | $97.99        | 70             | 28     | 4      | namesilo  |
+| pages.reise       | available | $99.99    | —             | 52             | 28     | 5      | name.com  |
+| KFC.reise         | available | $127.98   | —             | 74             | 27     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,441 live domains                              |
+| 1,000-row public sample | 12,895 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
