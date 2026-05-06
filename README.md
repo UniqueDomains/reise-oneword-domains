@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .reise one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,895 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,895 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,895 domains · **Median ask:** $89.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/reise`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.reise      | available | $99.99    | —             | 56             | 50     | 6      | name.com  |
-| events.reise      | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
-| matcha.reise      | available | $99.99    | —             | 86             | 39     | 6      | name.com  |
-| tips.reise        | premium   | $250      | —             | 80             | 26     | 4      | name.com  |
-| lets.reise        | available | $99.99    | —             | 77             | 39     | 4      | name.com  |
-| pictures.reise    | premium   | $250      | —             | 82             | 17     | 8      | name.com  |
-| aliens.reise      | available | $27.89    | $97.99        | 56             | 35     | 6      | namesilo  |
-| spectra.reise     | available | $99.99    | —             | 62             | 34     | 7      | name.com  |
-| partners.reise    | available | $99.99    | —             | 61             | 32     | 8      | name.com  |
-| trends.reise      | available | $99.99    | —             | 60             | 32     | 6      | name.com  |
-| William.reise     | available | $127.98   | —             | 74             | 31     | 7      | namecheap |
-| letsgo.reise      | available | $99.99    | —             | 57             | 31     | 7      | name.com  |
-| solutions.reise   | available | $99.99    | —             | 56             | 31     | 9      | name.com  |
-| inspiration.reise | available | $99.99    | —             | 88             | 30     | 11     | name.com  |
-| popup.reise       | available | $99.99    | —             | 84             | 29     | 6      | name.com  |
-| SanDiego.reise    | available | $27.89    | $97.99        | 74             | 29     | 9      | namesilo  |
-| Jim.reise         | available | $127.98   | —             | 78             | 28     | 3      | namecheap |
-| gems.reise        | available | $27.89    | $97.99        | 70             | 28     | 4      | namesilo  |
-| pages.reise       | available | $99.99    | —             | 52             | 28     | 5      | name.com  |
-| KFC.reise         | available | $127.98   | —             | 74             | 27     | 3      | namecheap |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.reise     | available | $127.98   | —             | 80             | 5      | 5      | namecheap |
+| Trex.reise     | available | $127.98   | —             | 80             | 24     | 5      | namecheap |
+| finals.reise   | available | $27.89    | $97.99        | 80             | 7      | 6      | namesilo  |
+| barup.reise    | available | $99.99    | —             | 82             | 2      | 6      | name.com  |
+| forces.reise   | available | $99.99    | —             | 82             | 12     | 6      | name.com  |
+| geton.reise    | available | $99.99    | —             | 82             | 10     | 6      | name.com  |
+| getup.reise    | available | $99.99    | —             | 82             | 14     | 6      | name.com  |
+| popup.reise    | available | $99.99    | —             | 84             | 29     | 6      | name.com  |
+| matcha.reise   | available | $99.99    | —             | 86             | 39     | 6      | name.com  |
+| playin.reise   | available | $99.99    | —             | 80             | 10     | 7      | name.com  |
+| hangon.reise   | available | $99.99    | —             | 82             | 6      | 7      | name.com  |
+| pierogi.reise  | available | $99.99    | —             | 82             | 7      | 7      | name.com  |
+| getlife.reise  | available | $99.99    | —             | 80             | 5      | 8      | name.com  |
+| agents.reise   | available | $99.99    | —             | 56             | 50     | 6      | name.com  |
+| events.reise   | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
+| tips.reise     | premium   | $250      | —             | 80             | 26     | 4      | name.com  |
+| lets.reise     | available | $99.99    | —             | 77             | 39     | 4      | name.com  |
+| pictures.reise | premium   | $250      | —             | 82             | 17     | 8      | name.com  |
+| aliens.reise   | available | $27.89    | $97.99        | 56             | 35     | 6      | namesilo  |
+| spectra.reise  | available | $99.99    | —             | 62             | 34     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,895 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,895 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .reise domains. That makes it most relevant for travel-linked brands, location services, trip products, hospitality concepts, and travel content projects that want a direct semantic match in the extension itself. The sample names show a broad mix: some are highly literal, like WiFi.reise, while others are broader dictionary terms such as homes.reise or jewels.reise. When comparing these domains, focus first on whether the word gains clarity from .reise, whether the term is easy to remember and spell, and whether the asking price fits the narrow but explicit positioning of a travel-specific TLD.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this set use the .reise travel-focused extension
+- Median ask across the selection is $89.99
+- Literal keywords often fit .reise better than abstract words
+- Check spelling clarity and trademark risk before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
