@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reise one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,895 domains · **Median ask:** $89.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/reise`  
 **Best for:** founders, investors, studios
 
@@ -70,8 +70,8 @@ print(df.head())
 | barup.reise    | available | $99.99    | —             | 82             | 2      | 6      | name.com  |
 | forces.reise   | available | $99.99    | —             | 82             | 12     | 6      | name.com  |
 | geton.reise    | available | $99.99    | —             | 82             | 10     | 6      | name.com  |
-| getup.reise    | available | $99.99    | —             | 82             | 14     | 6      | name.com  |
-| popup.reise    | available | $99.99    | —             | 84             | 29     | 6      | name.com  |
+| getup.reise    | available | $99.99    | —             | 82             | 15     | 6      | name.com  |
+| popup.reise    | available | $99.99    | —             | 84             | 28     | 6      | name.com  |
 | matcha.reise   | available | $99.99    | —             | 86             | 39     | 6      | name.com  |
 | playin.reise   | available | $99.99    | —             | 80             | 10     | 7      | name.com  |
 | hangon.reise   | available | $99.99    | —             | 82             | 6      | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
