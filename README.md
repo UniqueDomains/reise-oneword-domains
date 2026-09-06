@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reise one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,041 domains · **Median ask:** $46.31 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/reise`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| come.reise       | available | $27.89    | $97.99        | high           | low    | 4      | namesilo  |
+| action.reise     | available | $27.89    | $97.99        | high           | medium | 6      | namesilo  |
 | ada.reise        | available | $27.89    | $97.99        | medium         | medium | 3      | namesilo  |
 | new.reise        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo  |
 | ape.reise        | available | $27.89    | $97.99        | medium         | low    | 3      | namesilo  |
@@ -82,8 +84,6 @@ print(df.head())
 | democrat.reise   | premium   | $242      | $242          | high           | low    | 8      | namesilo  |
 | fat.reise        | available | $27.89    | $97.99        | medium         | low    | 3      | namesilo  |
 | healthcare.reise | premium   | $242      | $242          | high           | low    | 10     | namesilo  |
-| fin.reise        | available | $27.89    | $97.99        | low            | low    | 3      | namesilo  |
-| fix.reise        | available | $27.89    | $97.99        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
