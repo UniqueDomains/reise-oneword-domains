@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reise one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,922 domains · **Median ask:** $43.72 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/reise`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| come.reise       | available | $27.89    | $97.99        | high           | low    | 4      | namesilo  |
+| action.reise     | available | $27.89    | $97.99        | high           | medium | 6      | namesilo  |
 | ada.reise        | available | $27.89    | $97.99        | medium         | medium | 3      | namesilo  |
 | new.reise        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo  |
 | ape.reise        | available | $27.89    | $97.99        | medium         | low    | 3      | namesilo  |
@@ -77,13 +79,11 @@ print(df.head())
 | dip.reise        | available | $99.99    | $122.99       | high           | low    | 3      | name.com  |
 | sports.reise     | premium   | $260      | $260          | high           | medium | 6      | namecheap |
 | due.reise        | available | $99.99    | —             | high           | low    | 3      | name.com  |
-| digital.reise    | premium   | $242      | $242          | medium         | medium | 7      | namesilo  |
-| Eid.reise        | available | $27.89    | $97.99        | high           | low    | 3      | namesilo  |
+| digital.reise    | premium   | $242      | $242          | medium         | low    | 7      | namesilo  |
+| eid.reise        | available | $27.89    | $97.99        | high           | low    | 3      | namesilo  |
 | democrat.reise   | premium   | $242      | $242          | high           | low    | 8      | namesilo  |
 | fat.reise        | available | $27.89    | $97.99        | medium         | low    | 3      | namesilo  |
 | healthcare.reise | premium   | $242      | $242          | high           | low    | 10     | namesilo  |
-| fin.reise        | available | $27.89    | $97.99        | low            | low    | 3      | namesilo  |
-| fix.reise        | available | $27.89    | $97.99        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

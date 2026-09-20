@@ -9,7 +9,7 @@ c2574e5f-e336-4663-9f78-0ab2da7e93d3,buyer.reise,available,27.89,97.99,high,low,
 a03f9d93-a4fc-4f3a-8081-a1d806eaa688,bristly.reise,available,27.89,97.99,low,low,7,namesilo,,,08/08/2026 17:18
 d00e8491-6bf3-440c-819b-683bf0698d5d,advance.reise,available,99.99,122.99,high,low,7,name.com,,,
 3ec3488e-c2dd-4b5c-ad4b-c40b9696a05f,crack.reise,available,27.89,97.99,medium,low,5,namesilo,,,
-a7aa4da3-3ed9-4470-a96d-3fa1abb3bc89,Chinesenoodles.reise,available,27.89,97.99,medium,low,15,namesilo,,,
+a7aa4da3-3ed9-4470-a96d-3fa1abb3bc89,chinesenoodles.reise,available,27.89,97.99,medium,low,15,namesilo,,,
 26989209-1e1f-41ab-b0ab-22bee3397a91,ignore.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 bd95054c-ae16-4753-87ab-bdad3c58fdab,ser.reise,available,99.99,,high,low,3,name.com,,,
 4de1cc96-e6aa-46f3-9eee-43365c3016bb,intimes.reise,available,99.99,,medium,low,8,name.com,,,
@@ -18,7 +18,7 @@ bd95054c-ae16-4753-87ab-bdad3c58fdab,ser.reise,available,99.99,,high,low,3,name.
 106d2a26-30ae-4b3b-9275-b19b92d01684,cattower.reise,available,27.89,97.99,high,low,9,namesilo,,,
 f8a3e1d4-d224-44b2-b3e9-15542da028e1,grocery.reise,available,27.89,97.99,medium,low,7,namesilo,,,08/09/2026 13:48
 7c7a987f-b624-4afb-a817-b2505922efad,water.reise,available,27.89,97.99,medium,medium,5,namesilo,,,08/09/2026 13:05
-10c13fbd-57a5-4511-a97b-f3bcce2077de,Frenchroll.reise,available,99.99,,medium,low,11,name.com,,,
+10c13fbd-57a5-4511-a97b-f3bcce2077de,frenchroll.reise,available,99.99,,medium,low,11,name.com,,,
 e2662078-b5dd-41e6-95d9-61da4d15d5c7,rectify.reise,available,99.99,122.99,high,low,7,name.com,,,
 7ae45b4f-a71a-4ff9-8189-f36ccf905216,whitefish.reise,available,27.89,97.99,low,low,10,namesilo,,,
 d0b2b24d-3363-400b-9d95-aa3b650760d7,keepup.reise,available,27.89,97.99,high,low,7,namesilo,,,
@@ -35,7 +35,7 @@ ce0fdaff-2a45-4225-b557-b151b97cf12a,assamese.reise,available,27.89,97.99,low,lo
 2947590a-6024-4ccf-9918-9e0c66ddb3f0,freshasadaisy.reise,available,27.89,97.99,medium,low,16,namesilo,,,
 24a46d3d-e751-44fe-b917-bd325026e9ca,candybar.reise,available,27.89,97.99,high,low,9,namesilo,,,
 de212437-e889-46a5-a753-ffa6a2a13a6e,licenced.reise,available,99.99,122.99,medium,low,8,name.com,,,
-bf6171e7-66a3-411b-be85-14a65b8697cb,pizza.reise,available,27.89,97.99,medium,medium,5,namesilo,,,15/09/2026 01:18
+bf6171e7-66a3-411b-be85-14a65b8697cb,pizza.reise,available,27.89,97.99,medium,low,5,namesilo,,,19/09/2026 05:58
 14cedfc1-fc6c-4d65-9052-5755792e22b6,kneedeep.reise,available,27.89,97.99,low,low,9,namesilo,,,
 9d83534c-43fd-4879-926d-730fe99076da,weeks.reise,available,27.89,97.99,low,low,5,namesilo,,,
 17c1df47-04d9-40da-bac1-d1ff2f5359ec,masses.reise,available,27.89,97.99,medium,low,6,namesilo,,,
@@ -54,7 +54,7 @@ abd3564e-f60b-4ff9-b763-e84d8c6d1a7e,packed.reise,available,27.89,97.99,medium,l
 abcdc2cd-e8fb-497e-8bc5-481011e0032b,aphoristic.reise,available,27.89,97.99,low,low,10,namesilo,,,05/08/2026 23:31
 5a61dd47-58fd-45ee-801d-1d59622329e8,glory.reise,available,99.99,,high,low,5,name.com,,,
 e32d53d5-45ad-4cd8-9755-7ac6bbeb8fae,eyewitness.reise,available,27.89,97.99,medium,low,10,namesilo,,,
-af12e230-872b-457d-bb73-889d81b688b6,Flowers.reise,available,27.89,97.99,high,medium,7,namesilo,,,
+af12e230-872b-457d-bb73-889d81b688b6,flowers.reise,available,27.89,97.99,high,medium,7,namesilo,,,
 14c0b8d7-675f-4f93-b555-5902d1cab0ff,awfulness.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 ec1641e1-c161-49cb-a7c3-724ae3c1b2ff,trapped.reise,available,27.89,97.99,low,low,7,namesilo,,,07/08/2026 11:08
 81f9d71c-17eb-4256-8a3e-9ac669af8cc5,plausive.reise,available,27.89,97.99,low,low,8,namesilo,,,06/08/2026 08:54
@@ -76,10 +76,10 @@ a7e56a94-2e1e-4b6a-a559-12bae5750495,notguilty.reise,available,99.99,122.99,low,
 293684c2-0df6-4332-ade2-2b42c6a053ec,makehaste.reise,available,27.89,97.99,high,low,10,namesilo,,,
 bc72f992-2a2b-4d03-9c52-81c629838cb7,asthecasemaybe.reise,available,27.89,97.99,medium,low,18,namesilo,,,
 322dabbf-c20e-4e65-b51c-616709916e17,estateinland.reise,available,27.89,97.99,medium,low,14,namesilo,,,
-36e79ed1-d69a-4cf6-870e-5ca7c06ec25b,utility.reise,available,27.89,97.99,medium,low,7,namesilo,,,14/09/2026 03:33
+36e79ed1-d69a-4cf6-870e-5ca7c06ec25b,utility.reise,available,27.89,97.99,medium,low,7,namesilo,,,19/09/2026 06:04
 27a628bf-677b-4718-a6bd-4153e0f73d83,leap.reise,available,27.89,97.99,high,low,4,namesilo,,,
 14fc9877-8a08-4bd9-83a2-1ea60d75192f,assuasive.reise,available,27.89,97.99,low,low,9,namesilo,,,07/08/2026 07:34
-f5da9a20-b6d9-4d7c-bb6c-e1f11f0f35c0,Atacama.reise,available,27.89,97.99,medium,low,7,namesilo,,,
+f5da9a20-b6d9-4d7c-bb6c-e1f11f0f35c0,atacama.reise,available,27.89,97.99,medium,low,7,namesilo,,,
 7df81cd2-a9cb-4d74-b220-c67bce660b86,below.reise,available,99.99,122.99,medium,low,5,name.com,,,
 7a849331-1e31-4f6a-91b0-1525043aa4e2,copyrightsymbol.reise,available,27.89,97.99,medium,low,16,namesilo,,,
 2130f1bb-5bf5-4d52-b130-2ed4e529fa64,brain.reise,available,27.89,97.99,high,medium,5,namesilo,,,
@@ -98,9 +98,9 @@ bb376c20-341e-4737-b1f7-c3a95187cfd7,algonkin.reise,available,27.89,97.99,low,lo
 d44358c6-4808-4482-af6a-07cce36e779a,hunger.reise,available,27.89,97.99,high,low,6,namesilo,,,
 5fd31ae4-5b63-4603-a4b1-88def6538d07,court.reise,available,99.99,,medium,low,5,name.com,,,
 9c2cba99-dbd1-4e1b-a508-2f573d05edad,civiltime.reise,available,27.89,97.99,medium,low,10,namesilo,,,
-51387ad9-f1b7-4654-a9c1-4d6f51ad78ac,Greekalphabet.reise,available,27.89,97.99,medium,low,14,namesilo,,,
+51387ad9-f1b7-4654-a9c1-4d6f51ad78ac,greekalphabet.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 84835b70-cd26-40e6-a3d3-71d188a5ee3a,archean.reise,available,27.89,97.99,low,low,7,namesilo,,,06/08/2026 15:05
-ad2e4b12-abc2-46ee-8978-1f6ea9db86da,Christalmighty.reise,available,27.89,97.99,high,low,15,namesilo,,,
+ad2e4b12-abc2-46ee-8978-1f6ea9db86da,christalmighty.reise,available,27.89,97.99,high,low,15,namesilo,,,
 9cba5523-5ff4-4388-8dec-3dfa83b25dda,goforgold.reise,available,27.89,97.99,high,low,11,namesilo,,,
 2416bf66-dc89-423b-8c4a-81f95b5ff5b9,visibility.reise,available,27.89,97.99,high,low,10,namesilo,,,
 e0b8bc08-aa59-4423-9085-01d7699c9aa1,clickbait.reise,available,27.89,97.99,high,low,9,namesilo,,,
@@ -116,16 +116,16 @@ c8c68e15-9341-43ad-b6ab-3f47ebabdbc0,existence.reise,available,27.89,97.99,high,
 26d414c4-bf57-497a-b7b4-b3cd4f3565c1,blunt.reise,available,27.89,97.99,medium,low,5,namesilo,,,
 4c0cb92f-a115-40e4-a56d-1dd7ee653d07,significantly.reise,available,27.89,97.99,medium,low,13,namesilo,,,
 8b84da57-a5b8-49e6-a464-4b50c4413a9a,whitesauce.reise,available,27.89,97.99,low,low,11,namesilo,,,
-e0fb0337-e218-47ee-beb1-9867c0a3086a,StrongCity.reise,available,27.89,97.99,low,low,11,namesilo,,,
+e0fb0337-e218-47ee-beb1-9867c0a3086a,strongcity.reise,available,27.89,97.99,low,low,11,namesilo,,,
 3b8b2786-7c26-4ab9-ada9-1d5ee6d99e6c,interesting.reise,available,27.89,97.99,high,low,11,namesilo,,,
 48d98b05-65a2-4feb-93ca-b541b5726d63,goodbet.reise,available,27.89,97.99,high,low,8,namesilo,,,
 e7e60e77-e489-437d-a73a-019f557eb926,fallshort.reise,available,27.89,97.99,medium,low,10,namesilo,,,
 72601be4-f7e8-47c3-9c4f-d344e8798e48,academic.reise,available,99.99,122.99,high,low,8,name.com,,,
 79597b9e-dad6-41fa-97ce-25ecea82ea78,treeofsorrow.reise,available,99.99,,low,low,14,name.com,,,
 81d235dd-3d29-4f3e-9fa7-613e4ee67126,letterpatent.reise,available,27.89,97.99,medium,low,13,namesilo,,,
-645d9467-4293-4f21-aeaa-66524ae318e6,NewChicago.reise,available,99.99,,low,low,11,name.com,,,
+645d9467-4293-4f21-aeaa-66524ae318e6,newchicago.reise,available,99.99,,low,low,11,name.com,,,
 b1ba9699-dcef-4c28-9c9d-d00093b7f42d,aoristic.reise,available,27.89,97.99,low,low,8,namesilo,,,05/08/2026 21:43
-2ab03836-3067-40ff-93a0-491d070c7a0c,NYC.reise,available,27.89,97.99,high,medium,3,namesilo,,,
+2ab03836-3067-40ff-93a0-491d070c7a0c,nyc.reise,available,27.89,97.99,high,medium,3,namesilo,,,
 72d231d5-0ca5-4036-ba5c-9c2823ce2775,grandprix.reise,available,,,high,low,10,,,,
 4f7751f6-8767-4a2a-879b-e6c3f62dc19e,burning.reise,available,27.89,97.99,high,low,7,namesilo,,,
 9ac0fb69-aef7-48a3-9f37-ab2dddde2689,abkhas.reise,available,27.89,97.99,low,low,6,namesilo,,,
@@ -134,7 +134,7 @@ a112e948-c3c9-4e53-8614-9b1620ff737b,mild.reise,available,27.89,97.99,high,low,4
 002ec076-8767-4a97-8ba2-232035e12769,prat.reise,available,27.89,97.99,low,low,4,namesilo,,,09/08/2026 11:18
 11eb7a6b-0f01-4866-ab13-f07f9e2d5cc1,redpanda.reise,available,27.89,97.99,high,low,9,namesilo,,,
 dee195be-7444-425f-8e95-29de2193429b,grueling.reise,available,27.89,97.99,low,low,8,namesilo,,,06/08/2026 16:45
-3b16656a-9226-4e1c-814a-0285dfc9c87e,MMR.reise,available,27.89,97.99,high,low,3,namesilo,,,
+3b16656a-9226-4e1c-814a-0285dfc9c87e,mmr.reise,available,27.89,97.99,high,low,3,namesilo,,,
 70894a31-ea5c-43b8-832b-da0ccfe39760,screening.reise,available,99.99,,high,low,9,name.com,,,
 5bb81193-766a-4f6a-97d5-5db5b702384d,assessable.reise,available,27.89,97.99,low,low,10,namesilo,,,07/08/2026 06:04
 f73edfec-175f-46fa-8f42-7135d90fc69c,firsttime.reise,available,27.89,97.99,high,low,10,namesilo,,,
@@ -188,7 +188,7 @@ d395ebf7-b159-4748-b4d8-a0a92ab62f3e,formerly.reise,available,99.99,,medium,low,
 648d68bf-be73-4993-a001-17def30b6cb2,chiefexecutive.reise,available,27.89,97.99,high,low,15,namesilo,,,
 26fc0455-fc8f-4843-91ae-499b96ff9b74,thinktwice.reise,available,27.89,97.99,medium,low,11,namesilo,,,
 017471c5-578d-425a-8d57-2a9264a0e04f,factor.reise,available,99.99,,medium,low,6,name.com,,,
-c8cd52f2-533e-4694-baf5-558c1eba6431,Points.reise,available,27.89,97.99,medium,low,6,namesilo,,,
+c8cd52f2-533e-4694-baf5-558c1eba6431,points.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 b84d14cb-d1de-4f97-94be-78080d54403b,barefoot.reise,available,27.89,97.99,low,low,8,namesilo,,,08/08/2026 18:54
 b0d9ea0a-6539-4ab5-b728-916f667be271,xlvi.reise,available,27.89,97.99,low,low,4,namesilo,,,
 aa9ce9d1-afbd-4876-9ede-5afd60c654fd,butthen.reise,available,27.89,97.99,medium,low,8,namesilo,,,
@@ -209,9 +209,9 @@ d47db800-2e22-474a-ae8e-6d7aec0b1877,extinction.reise,available,27.89,97.99,medi
 36120380-1c03-406c-9c03-9d031d5f065d,under.reise,available,27.89,97.99,high,low,5,namesilo,,,
 5be7b995-4529-40ce-b8b4-b3336cfe73c8,needing.reise,available,27.89,97.99,high,low,7,namesilo,,,
 6277ede1-eef6-4dd1-9dda-8aee95d13d2e,prohibited.reise,available,27.89,97.99,low,low,10,namesilo,,,08/08/2026 13:48
-6b809fad-2de4-443f-b31b-f1c5e0c66233,ethical.reise,available,27.89,97.99,medium,low,7,namesilo,,,12/09/2026 03:38
+6b809fad-2de4-443f-b31b-f1c5e0c66233,ethical.reise,available,102.98,127.98,medium,low,7,namecheap,,,19/09/2026 14:49
 a9f15aa8-4523-4000-8fea-4be4eb5712c8,watch.reise,available,27.89,97.99,high,low,5,namesilo,,,
-a1d07a93-e838-474e-8875-bbc93691782d,produced.reise,available,27.89,97.99,low,low,8,namesilo,,,13/09/2026 04:02
+a1d07a93-e838-474e-8875-bbc93691782d,produced.reise,available,27.89,97.99,low,low,8,namesilo,,,19/09/2026 16:32
 1283bc95-8b6a-4ce7-b9ee-3e4b55b0b953,integrated.reise,available,27.89,97.99,high,low,10,namesilo,,,
 3fb10ec6-2986-40da-b05d-9d8f6cf5d0ee,mouthy.reise,available,99.99,,low,low,6,name.com,,,
 694a70f9-c484-4afc-bee4-a1ec40bcdec3,durable.reise,available,99.99,122.99,high,low,7,name.com,,,
@@ -244,7 +244,7 @@ e820587a-121b-49d4-a1cf-e196eab3056e,mode.reise,available,27.89,97.99,high,low,4
 9146d7d9-c39a-4da7-99b6-f233907508c1,bearing.reise,available,27.89,97.99,high,low,7,namesilo,,,
 4da6adde-8738-4669-a255-dd841521a454,leaf.reise,available,27.89,97.99,high,low,4,namesilo,,,
 b2cc8f1d-6843-4390-a51e-7800413c0136,serialkiller.reise,available,27.89,97.99,medium,low,13,namesilo,,,
-c43324ce-329f-47d6-b93c-0e680118f563,food.reise,available,27.89,97.99,high,medium,4,namesilo,,,
+c43324ce-329f-47d6-b93c-0e680118f563,food.reise,available,27.89,97.99,medium,low,4,namesilo,,,19/09/2026 10:31
 7cda327a-86a7-4130-b38d-c17ec72d543a,economic.reise,available,99.99,122.99,high,low,8,name.com,,,
 c6f64b27-f552-4292-8698-e09c2b210880,havetime.reise,available,99.99,,high,low,9,name.com,,,
 03ac279e-f393-4619-ac40-5091f4af8fe2,medium.reise,available,27.89,97.99,high,low,6,namesilo,,,
@@ -253,33 +253,32 @@ b216e2e5-992d-4c43-b723-b56cdf2a2666,increasing.reise,available,27.89,97.99,high
 d9fa1536-17df-4b51-ac0d-48ff1c099416,departure.reise,available,27.89,97.99,medium,low,9,namesilo,,,08/09/2026 12:08
 62fc44fa-0813-422c-97f9-31b5f62cf856,mentioned.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 c2a5e3a1-0dab-492e-af81-b08184b7e11b,attention.reise,available,27.89,97.99,high,low,9,namesilo,,,
-9b42e7cc-2ab1-4892-bec9-cb459939f1e9,NewTaipei.reise,available,99.99,,medium,low,10,name.com,,,
+9b42e7cc-2ab1-4892-bec9-cb459939f1e9,newtaipei.reise,available,99.99,,medium,low,10,name.com,,,
 c0be72c5-3aae-4aff-9800-dfd5ef413864,fivesome.reise,available,27.89,97.99,low,low,8,namesilo,,,
 89cbb233-a8b4-458b-b773-e48fdf1f2384,howfar.reise,available,27.89,97.99,medium,low,7,namesilo,,,
 c7376fe7-d060-4ccc-8f63-cde0926658cb,goodfriend.reise,available,27.89,97.99,medium,low,11,namesilo,,,
 c015c9ac-b05f-4472-8659-ac511e6c4760,meandthee.reise,available,27.89,97.99,medium,low,11,namesilo,,,
-09de7781-4b3e-4baf-b996-8015765a2135,Frenchloaf.reise,available,99.99,,high,low,11,name.com,,,
+09de7781-4b3e-4baf-b996-8015765a2135,frenchloaf.reise,available,99.99,,high,low,11,name.com,,,
 69b7c57a-003c-48ee-9987-3d39a53fe7f6,published.reise,available,27.89,97.99,medium,low,9,namesilo,,,
-8026ad47-b7c1-4909-8103-a3091f0d2860,seventeen.reise,available,,,high,medium,9,,,,
 e5561f59-0222-4dba-87f5-9c70c15e8db7,establishmentgrowth.reise,available,27.89,97.99,medium,low,20,namesilo,,,
 da8e5469-8f54-4eab-a7d0-1d06cf233579,conquest.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 17f818ac-fe55-4da6-bd14-ff70c5aea1e6,foodcourt.reise,available,27.89,97.99,high,low,10,namesilo,,,
 fda94269-2799-4548-a09f-a8f4ea396348,wrongly.reise,available,27.89,97.99,medium,low,7,namesilo,,,
-bc742785-6b89-46fe-8e09-544faf07b87d,MasterofArts.reise,available,27.89,97.99,medium,low,14,namesilo,,,
+bc742785-6b89-46fe-8e09-544faf07b87d,masterofarts.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 f705db43-83fe-4da8-96fe-3362a6253f9e,condom.reise,available,27.89,97.99,high,low,6,namesilo,,,
 99dcba5c-417c-460c-96a2-aebf6dfbb9a5,callcenter.reise,available,27.89,97.99,medium,low,11,namesilo,,,
 1fc08414-c427-4b0d-b127-2abd88d637ab,healing.reise,available,27.89,97.99,high,low,7,namesilo,,,
 e43627a1-2a4b-4389-a9d7-b7e9143afc7c,surrounding.reise,available,27.89,97.99,high,low,11,namesilo,,,
 2f3a78bd-5af0-4ecb-b75e-08e63f9d18df,public.reise,available,27.89,97.99,high,low,6,namesilo,,,
 02e2b719-3357-4352-8374-73df9d5f6356,continuous.reise,available,99.99,122.99,high,low,10,name.com,,,
-4c39fc08-827c-48c0-a5da-a27f79888947,door.reise,available,27.89,97.99,medium,low,4,namesilo,,,15/09/2026 03:41
+4c39fc08-827c-48c0-a5da-a27f79888947,door.reise,available,27.89,97.99,medium,low,4,namesilo,,,19/09/2026 10:21
 9750c198-5e07-43ed-8fed-c6bd3aaa0552,proper.reise,available,27.89,97.99,high,low,6,namesilo,,,
-a18e7248-b1b3-4307-ab94-dadedb614f5b,VaticanCity.reise,available,27.89,97.99,low,low,12,namesilo,,,
+a18e7248-b1b3-4307-ab94-dadedb614f5b,vaticancity.reise,available,27.89,97.99,low,low,12,namesilo,,,
 cfa50eaa-54d7-4193-8d94-614150e4f7e1,distress.reise,available,27.89,97.99,high,low,8,namesilo,,,
 c9279389-ea2b-4c0d-b40e-e4f2bc503d0a,enter.reise,available,27.89,97.99,high,low,5,namesilo,,,
 3d70bf69-0e84-471c-b84e-d92166a4c949,thenagain.reise,available,27.89,97.99,medium,low,10,namesilo,,,
 68eeb673-6068-499c-8ab9-30de070ea599,cancel.reise,available,27.89,97.99,medium,low,6,namesilo,,,
-83b97519-3a67-42de-9329-e59e8a88f08d,firm.reise,available,27.89,97.99,high,low,4,namesilo,,,
+83b97519-3a67-42de-9329-e59e8a88f08d,firm.reise,available,102.98,127.98,medium,low,4,namecheap,,,20/09/2026 02:35
 76241a02-9335-4da3-b9b4-fd81fc45c35e,psychic.reise,available,27.89,97.99,high,low,7,namesilo,,,
 f1d3396d-ca82-4241-979e-1b567663cff8,alittlebit.reise,available,27.89,97.99,medium,low,12,namesilo,,,
 d2ae0cdf-7fcd-442f-bdc7-6fdd612a2128,cheesepizza.reise,available,99.99,,high,low,12,name.com,,,
@@ -304,12 +303,12 @@ bd28194c-1b42-423e-992e-01c25473845f,strain.reise,available,27.89,97.99,medium,l
 8d86741c-7da9-4ca5-9d26-2ea68cc88b46,conduction.reise,available,27.89,97.99,high,low,10,namesilo,,,
 726b52b2-1f8d-44e1-a2c5-c86f6ca2383d,opinion.reise,available,99.99,,high,low,7,name.com,,,
 817536d8-62b0-4077-bdc6-b2180cc1fa8b,gates.reise,available,27.89,97.99,high,low,5,namesilo,,,
-3b0fddd3-0751-4593-864a-7b4faf9d9529,Jody.reise,available,99.99,,high,low,4,name.com,,,
+3b0fddd3-0751-4593-864a-7b4faf9d9529,jody.reise,available,99.99,,high,low,4,name.com,,,
 249c1ee8-9b00-4356-953c-9bace0948df7,manya.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 83e53dd9-6a80-4ada-a59c-5fa6ffc736bb,flee.reise,available,27.89,97.99,medium,low,4,namesilo,,,
 4d161609-47f2-44de-bb8b-e6c3a07df12d,susceptible.reise,available,27.89,97.99,high,low,11,namesilo,,,
 00b8b4c3-0f65-4e27-ba91-6db5929f24e7,playonwords.reise,available,27.89,97.99,low,low,13,namesilo,,,
-971cc373-5a02-4842-8c33-44e4f00c5468,Philly.reise,available,27.89,97.99,high,low,6,namesilo,,,
+971cc373-5a02-4842-8c33-44e4f00c5468,philly.reise,available,27.89,97.99,high,low,6,namesilo,,,
 0d8799b9-d4f5-4e53-bc0e-9245c4034089,retro.reise,available,27.89,97.99,high,medium,5,namesilo,,,
 23a40d19-62eb-4206-b47c-7a4be9a40694,lamp.reise,available,27.89,97.99,medium,low,4,namesilo,,,
 482b62af-b4de-4c81-8a56-001ade335113,laborious.reise,available,27.89,97.99,low,low,9,namesilo,,,06/08/2026 17:00
@@ -319,7 +318,7 @@ bd28194c-1b42-423e-992e-01c25473845f,strain.reise,available,27.89,97.99,medium,l
 9a3b92ed-166e-4cda-b5c6-e4af9b0a6dbe,closequarters.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 34c992ab-ed47-446e-a6d6-352d3dc87dc6,daggum.reise,available,27.89,97.99,high,low,6,namesilo,,,
 4c0aa33b-2b12-46b7-87c6-86ec89b2f293,vary.reise,available,27.89,97.99,high,low,4,namesilo,,,
-ebea51b6-9154-4588-92af-776cb4d2e9a0,pastrychef.reise,available,27.89,97.99,medium,low,11,namesilo,,,14/09/2026 04:03
+ebea51b6-9154-4588-92af-776cb4d2e9a0,pastrychef.reise,available,27.89,97.99,medium,low,11,namesilo,,,19/09/2026 03:45
 9a71ce69-1efd-47db-aaf5-d825feaaddb8,suppose.reise,available,27.89,97.99,high,low,7,namesilo,,,
 0f424a09-8cb0-487a-bbc0-5d8046bbb17a,dip.reise,available,99.99,122.99,high,low,3,name.com,,,
 661ebd48-75fb-4907-aac9-e03101ee65fa,flexible.reise,available,99.99,122.99,high,low,8,name.com,,,
@@ -334,9 +333,8 @@ bcc1f18b-15cb-44a8-86f8-1a807bc46f23,value.reise,available,27.89,97.99,high,low,
 eb5e6a9c-a4c3-40f2-be0a-98d8291c5671,continuously.reise,available,27.89,97.99,medium,low,12,namesilo,,,
 58302d9f-3fb5-4ddb-9ff2-7f53d2131c9d,varied.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 6ef572f7-bf35-4b07-aa33-28ac560a92d0,beadyeyed.reise,available,27.89,97.99,low,low,10,namesilo,,,09/08/2026 03:44
-f73812ce-00ae-4510-a4f5-27ed6cd98b47,line.reise,available,,,high,low,4,,,,
 dfbb1559-588f-4fd2-bc44-5c72763b20a0,righteous.reise,available,99.99,,high,low,9,name.com,,,
-e3f26265-2666-4fa4-9ef6-df2529b2c74d,ColonelSanders.reise,available,27.89,97.99,high,low,15,namesilo,,,
+e3f26265-2666-4fa4-9ef6-df2529b2c74d,colonelsanders.reise,available,27.89,97.99,high,low,15,namesilo,,,
 1976f427-6e18-4889-821a-27013d2862c1,aegeansea.reise,available,27.89,97.99,low,low,10,namesilo,,,
 27b84428-2204-4678-8624-86c56ef1297a,alienated.reise,available,27.89,97.99,low,low,9,namesilo,,,
 f6208b29-d925-4186-acae-34fc667520bb,shared.reise,available,99.99,122.99,high,low,6,name.com,,,
@@ -345,7 +343,7 @@ f12e14ea-8873-4f07-9808-e45a0200e47d,understood.reise,available,27.89,97.99,high
 8c1b3165-9953-4126-bf14-843cf40c7b38,dissent.reise,available,27.89,97.99,high,low,7,namesilo,,,
 35744b5c-69c2-4f38-9759-3af2ef7a382d,interim.reise,available,27.89,97.99,high,low,7,namesilo,,,
 ad996ca0-d694-4b8f-8970-8c812abd3066,mixture.reise,available,27.89,97.99,high,low,7,namesilo,,,
-f2e7012a-b835-4b06-8dd2-ee685a292c01,Ihaveatemperature.reise,available,27.89,97.99,medium,low,20,namesilo,,,
+f2e7012a-b835-4b06-8dd2-ee685a292c01,ihaveatemperature.reise,available,27.89,97.99,medium,low,20,namesilo,,,
 d28faf55-930d-4ebf-93fa-4d0c1732e3e0,rested.reise,available,99.99,,high,low,6,name.com,,,
 c3372157-45a6-4fc7-907b-8a80a7e99ca7,merger.reise,available,27.89,97.99,high,low,6,namesilo,,,
 b38a2f56-6719-42fd-8aa6-c8128c17ddd2,fanny.reise,available,27.89,97.99,low,low,5,namesilo,,,09/08/2026 12:00
@@ -367,7 +365,7 @@ c1590ecf-9323-4b0c-92c6-3313d6cea4cb,oilterminal.reise,available,27.89,97.99,med
 46c6ffc4-fef8-44ba-8482-9d741ed4d48f,cleopatra.reise,available,27.89,97.99,high,low,9,namesilo,,,
 0a5a176f-5939-41b5-98b2-b6edd60c64e6,ninetyone.reise,available,27.89,97.99,low,low,10,namesilo,,,
 6b847568-2f3c-4ccd-aad2-9f96cf804816,blooddonation.reise,available,99.99,,high,low,14,name.com,,,
-1a6c287c-f4ab-468b-88db-288f38f23d64,learning.reise,available,27.89,97.99,high,low,8,namesilo,,,
+1a6c287c-f4ab-468b-88db-288f38f23d64,learning.reise,available,27.89,97.99,medium,low,8,namesilo,,,19/09/2026 05:11
 a5ebee96-149a-4fa4-9cf3-61ce917f5270,tenner.reise,available,99.99,122.99,medium,low,6,name.com,,,
 5fa702ba-d22e-4141-9422-e896c3117efd,pancreas.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 b29a67eb-98f8-47a5-add2-e5d8fb4ce2e5,astimegoesby.reise,available,99.99,,medium,low,15,name.com,,,
@@ -388,7 +386,7 @@ b6db6553-4656-4824-9e89-b0dab3bc5e95,iconic.reise,available,27.89,97.99,high,low
 bd9f08c1-7935-4c1b-8a78-7a79f85a6ef5,terminalhair.reise,available,99.99,,low,low,13,name.com,,,
 b22187ad-ce1f-4868-8ae7-5058e6d39a76,baggy.reise,available,27.89,97.99,high,low,5,namesilo,,,
 7284c9e7-2aab-426f-94da-9c20edacbeb7,upcoming.reise,available,27.89,97.99,low,low,8,namesilo,,,06/08/2026 08:39
-b6cc2ea1-f429-4f73-b88d-2d970b9def1e,WestBay.reise,available,27.89,97.99,low,low,8,namesilo,,,
+b6cc2ea1-f429-4f73-b88d-2d970b9def1e,westbay.reise,available,27.89,97.99,low,low,8,namesilo,,,
 ac42339a-29a2-4b82-9184-efd6a71a94a6,bag.reise,available,27.89,97.99,medium,low,3,namesilo,,,04/09/2026 13:24
 76d6131b-76c2-4787-af4c-1c7c13b7836f,unquestionable.reise,available,99.99,,high,low,14,name.com,,,
 7a1937ba-8cd3-42fe-ad24-9380ac590963,elderly.reise,available,99.99,122.99,high,low,7,name.com,,,
@@ -450,7 +448,7 @@ fe9a104a-47b5-41a3-81f6-f45608b9158b,xxviii.reise,available,27.89,97.99,low,low,
 b41bc270-fce7-402f-aa32-a93eea3b70e7,judgement.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 7c07317b-2507-4c8b-b8fe-98f0c9dfdf06,sodawater.reise,available,27.89,97.99,high,low,10,namesilo,,,
 d8483121-68cb-4a85-9d2f-da95b5c9288e,nine.reise,available,99.99,122.99,high,low,4,name.com,,,
-bb89c53f-f6ad-4911-b83b-10c86d5b8ef0,Netflix.reise,available,,,high,low,7,,,,
+bb89c53f-f6ad-4911-b83b-10c86d5b8ef0,netflix.reise,available,,,high,low,7,,,,
 e699f012-ebdb-46c2-940b-e35e20b2fbf5,beatout.reise,available,27.89,97.99,low,low,8,namesilo,,,09/08/2026 05:17
 1a7e3fcd-f516-44ee-af9d-a44d1704c2f9,prehensile.reise,available,27.89,97.99,low,low,10,namesilo,,,07/08/2026 22:14
 5b99a7ee-a2e2-41c0-8c7b-f9bfd9a44e99,oriented.reise,available,27.89,97.99,medium,low,8,namesilo,,,
@@ -469,7 +467,7 @@ f16afc33-ce20-43b0-ab9f-a79e0b561223,lisbon.reise,available,27.89,97.99,high,low
 01b6655a-7eb9-4bb4-b242-9536af3b6619,kilo.reise,available,27.89,97.99,high,low,4,namesilo,,,
 fec133cd-c129-4a42-8ea7-ea949910db67,zen.reise,available,27.89,97.99,high,medium,3,namesilo,,,
 5a3e5739-5b62-436c-af38-9c4e1b8ac6b9,sympathize.reise,available,27.89,97.99,high,low,10,namesilo,,,
-4620277b-5aab-4133-86db-b7bd88a297e3,compute.reise,available,27.89,97.99,high,low,7,namesilo,,,
+4620277b-5aab-4133-86db-b7bd88a297e3,compute.reise,available,27.89,97.99,medium,low,7,namesilo,,,19/09/2026 14:03
 fdfb4cdc-4d42-4423-b127-eb5f25676ff1,ofcolor.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 89e1eb83-1b58-4630-af90-b2b568b5b893,fair.reise,available,27.89,97.99,high,low,4,namesilo,,,
 b22b6891-0ec7-41b9-8387-2ae186ae9f14,hardfeelings.reise,available,27.89,97.99,medium,low,13,namesilo,,,
@@ -478,7 +476,7 @@ f04a89bf-e846-485a-8436-bcf9d32ed7b3,modernday.reise,available,99.99,122.99,high
 3c4e63fc-0919-4087-8b65-b605b6d25ee9,whatwasthat.reise,available,27.89,97.99,low,low,13,namesilo,,,
 a1a91a9e-bbeb-4bde-a860-ca7ee65992bf,thick.reise,available,27.89,97.99,high,low,5,namesilo,,,
 12f96ea5-83bd-45f5-8a7f-cece8d673271,prompt.reise,available,27.89,97.99,high,medium,6,namesilo,,,
-d5891c3f-86b1-495c-a21d-4e647c617fe3,WestHam.reise,available,27.89,97.99,low,low,8,namesilo,,,
+d5891c3f-86b1-495c-a21d-4e647c617fe3,westham.reise,available,27.89,97.99,low,low,8,namesilo,,,
 54be7155-50df-469d-966f-163d1701bf63,alimony.reise,available,27.89,97.99,medium,low,7,namesilo,,,
 ca3561c1-c1c6-4613-abb8-54ad0a3e1b84,tell.reise,available,27.89,97.99,high,low,4,namesilo,,,
 e676fbde-8da2-4625-b0d9-c9b4615dfe23,guestchair.reise,available,27.89,97.99,medium,low,11,namesilo,,,
@@ -505,10 +503,10 @@ dd374584-a6e6-40b9-a849-5b35b9003e9b,pitted.reise,available,27.89,97.99,low,low,
 48cd42d2-d219-477e-8033-0ade3a6b2965,sexhair.reise,available,99.99,,low,low,8,name.com,,,
 89920456-57ed-4cdc-b344-08160848c095,hover.reise,available,27.89,97.99,medium,low,5,namesilo,,,
 5f3b4756-3b55-4965-b03b-e950fdd6e03b,needs.reise,available,27.89,97.99,high,low,5,namesilo,,,
-0c079910-4f61-4479-a824-64b95e3f7b94,Scarlett.reise,available,27.89,97.99,medium,low,8,namesilo,,,
+0c079910-4f61-4479-a824-64b95e3f7b94,scarlett.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 fecaa446-92ab-49e2-a02c-723680b2047b,flame.reise,available,27.89,97.99,high,low,5,namesilo,,,
 ea8d5bdc-7c12-4765-be19-447afddf1f64,numb.reise,available,27.89,97.99,high,low,4,namesilo,,,
-ed960175-e770-4b8b-8ba9-e1c43bbbeef8,Yours.reise,available,27.89,97.99,medium,low,5,namesilo,,,
+ed960175-e770-4b8b-8ba9-e1c43bbbeef8,yours.reise,available,27.89,97.99,medium,low,5,namesilo,,,
 8178117d-68b5-40a8-80b4-07a2bee1c441,airtight.reise,available,99.99,122.99,low,low,8,name.com,,,
 46138c5d-734f-4a6e-84e4-d498abbcbe9a,extra.reise,available,99.99,122.99,high,low,5,name.com,,,
 65606f15-38ed-4713-8d7d-cf93aaa8438c,cherryonthecake.reise,available,27.89,97.99,medium,low,18,namesilo,,,
@@ -524,7 +522,7 @@ ddd10c55-c75b-4236-8bf8-992d8ab53f64,closeoff.reise,available,27.89,97.99,high,l
 04934e5a-c109-4ce2-8ca9-5c138854e559,achy.reise,available,27.89,97.99,low,low,4,namesilo,,,
 cba64e6b-899e-4258-a9f0-be13e35f1131,albescent.reise,available,27.89,97.99,low,low,9,namesilo,,,
 2605ea46-36d4-4269-89b9-8f383f570ed5,atthedouble.reise,available,27.89,97.99,high,low,13,namesilo,,,
-dc787687-e908-436e-8d58-39e26e528f56,backup.reise,available,27.89,97.99,high,low,6,namesilo,,,
+dc787687-e908-436e-8d58-39e26e528f56,backup.reise,available,27.89,97.99,medium,low,6,namesilo,,,20/09/2026 03:14
 e1e9138b-75d6-40c3-87ca-0f2d1ffa328d,crafty.reise,available,99.99,122.99,medium,low,6,name.com,,,
 22e59d38-849e-4030-9e41-4bfe3205b8f6,intervening.reise,available,27.89,97.99,medium,low,11,namesilo,,,
 d41b7300-5fc7-41df-841a-cb85a15e001b,commons.reise,available,27.89,97.99,medium,low,7,namesilo,,,
@@ -541,14 +539,14 @@ e7037cf5-70c3-4157-8f1f-2c54cd63355e,democrat.reise,premium,242,242,high,low,8,n
 7757465f-76b3-40a2-b336-27e4f7c2ffdf,azido.reise,available,27.89,97.99,low,low,5,namesilo,,,08/08/2026 02:06
 8556e933-1ec1-4be6-b348-b078ecf8ea7d,nominee.reise,available,27.89,97.99,high,low,7,namesilo,,,
 05c30aca-ba51-4552-98e2-88e81a2418fa,anatomy.reise,available,27.89,97.99,high,low,7,namesilo,,,
-5e4e8300-5d91-49aa-8bc9-98b030bbb646,Eid.reise,available,27.89,97.99,high,low,3,namesilo,,,
+5e4e8300-5d91-49aa-8bc9-98b030bbb646,eid.reise,available,27.89,97.99,high,low,3,namesilo,,,
 261a8196-1e12-4be3-aa8d-1fc08e72b46e,takepart.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 175d6c2d-8fc3-4b44-b394-0580b4374aed,subrosa.reise,available,27.89,97.99,low,low,8,namesilo,,,09/08/2026 12:09
 b4f7080a-75c7-406e-892b-72e5eb99b022,iron.reise,available,27.89,97.99,high,low,4,namesilo,,,
 4082a1eb-3d81-4bb1-91c8-ef01d23363c4,power.reise,available,,,high,low,5,,,,
 3de29804-cb33-44a2-88ad-88540c355c9a,looks.reise,available,27.89,97.99,high,low,5,namesilo,,,
 d63fc8c6-e757-4af1-b671-4a0c74b09994,soothing.reise,available,27.89,97.99,low,low,8,namesilo,,,07/08/2026 07:40
-cd831066-f9dc-41c7-bbe1-4b86f628d3f1,stove.reise,available,27.89,97.99,medium,low,5,namesilo,,,15/09/2026 04:20
+cd831066-f9dc-41c7-bbe1-4b86f628d3f1,stove.reise,available,102.98,127.98,low,low,5,namecheap,,,19/09/2026 18:48
 73cf9cf9-5798-4990-887d-09ed0395ca48,beer.reise,available,27.89,97.99,high,low,4,namesilo,,,
 7a5b5743-5ae3-4d09-9ad1-05a9a98ca62c,antsy.reise,available,27.89,97.99,low,low,5,namesilo,,,05/08/2026 20:27
 33a4cd15-737e-447e-948d-0780e7e175b6,granola.reise,available,99.99,,high,low,7,name.com,,,
@@ -556,7 +554,7 @@ cd831066-f9dc-41c7-bbe1-4b86f628d3f1,stove.reise,available,27.89,97.99,medium,lo
 9858a356-511e-4ccc-8301-b693e5757440,agonistic.reise,available,99.99,122.99,low,low,9,name.com,,,
 0e9d157f-174c-481a-b176-cdc0469dfd44,cocoa.reise,available,27.89,97.99,high,low,5,namesilo,,,
 01b67beb-e66c-471c-ac25-41cdd4dca0e6,derelict.reise,available,99.99,122.99,high,low,8,name.com,,,
-639709b4-b917-4066-a13c-2e3664d44cb9,Ihearyousay.reise,available,27.89,97.99,medium,low,14,namesilo,,,
+639709b4-b917-4066-a13c-2e3664d44cb9,ihearyousay.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 9df83671-84ac-425b-9228-7cdad1f81bd7,callfor.reise,available,27.89,97.99,high,low,8,namesilo,,,
 3e6161c6-e1d8-48c2-9081-32d598d280c4,augustan.reise,available,27.89,97.99,low,low,8,namesilo,,,07/08/2026 17:15
 2ab3810d-2514-4831-96f7-fac6c8f331eb,former.reise,available,27.89,97.99,high,low,6,namesilo,,,
@@ -566,7 +564,7 @@ c8d89fe5-35e3-4fc0-bb11-06af762cabcf,tonguetwister.reise,available,99.99,,low,lo
 de5219e2-b111-409e-b039-b8766ec8c672,right.reise,available,99.99,122.99,high,low,5,name.com,,,
 99c117bc-bdbf-4202-8b59-a8b25aac6797,rejoin.reise,available,27.89,97.99,high,low,6,namesilo,,,
 5c642f63-ba2e-4890-a49b-57a7714f6dc1,lxxx.reise,available,99.99,122.99,low,low,4,name.com,,,
-b7838417-04d6-4c73-a0e8-3b9b939ec126,Schneider.reise,available,27.89,97.99,medium,low,9,namesilo,,,
+b7838417-04d6-4c73-a0e8-3b9b939ec126,schneider.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 51c9c946-fff3-469c-b7b7-06347a64f7f2,scenicroute.reise,available,27.89,97.99,high,low,12,namesilo,,,
 4854c1dd-9955-4f66-b39d-0b2a75733582,unmannered.reise,available,27.89,97.99,low,low,10,namesilo,,,08/08/2026 07:28
 8ca9979b-18ae-46ab-b91a-10b493c24958,respects.reise,available,27.89,97.99,high,low,8,namesilo,,,
@@ -611,7 +609,7 @@ b6fc2bc7-b20f-471d-8c3f-81f3a8760e43,century.reise,available,27.89,97.99,medium,
 91347982-246b-4dca-b22e-cbc179b6d77c,blonde.reise,available,27.89,97.99,high,low,6,namesilo,,,
 2380efce-211d-4dce-8374-d2ea22bb16c2,proportion.reise,available,27.89,97.99,high,low,10,namesilo,,,
 7f11cc87-5349-4815-84e7-38fe77046b1e,ticketwindow.reise,available,27.89,97.99,medium,low,13,namesilo,,,
-31a83155-e400-4232-b256-03a23f48eaa6,WWWpage.reise,available,27.89,97.99,high,low,8,namesilo,,,
+31a83155-e400-4232-b256-03a23f48eaa6,wwwpage.reise,available,27.89,97.99,high,low,8,namesilo,,,
 21cb32ea-91cd-4c92-b34a-4cca485ffea8,abouteast.reise,available,99.99,,medium,low,10,name.com,,,
 5967c10f-fa17-4e84-9c4f-e42b2b681b38,action.reise,available,27.89,97.99,high,medium,6,namesilo,,,
 dde2e2b4-6bac-4275-9522-6b52b81c0dc1,volcano.reise,available,27.89,97.99,medium,low,7,namesilo,,,
@@ -622,7 +620,7 @@ d3c8701e-2fc6-4fd4-b594-d0140b5689b4,inshape.reise,available,27.89,97.99,high,lo
 83b5fcb5-26c2-4692-acf5-41cb95b8e1bd,leasing.reise,available,27.89,97.99,high,low,7,namesilo,,,
 084a970f-faef-45bc-8f43-d22da85630c9,cuba.reise,available,,,medium,low,4,,,,
 e112aa79-824a-4014-92a7-fcbc6f412ddd,manageable.reise,available,99.99,122.99,high,low,10,name.com,,,
-6176e6a5-3048-44ad-99f5-2ec3c934aaa5,IamwhatIam.reise,available,27.89,97.99,medium,low,14,namesilo,,,
+6176e6a5-3048-44ad-99f5-2ec3c934aaa5,iamwhatiam.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 9544ca0a-987e-495c-a454-6df315d1a83c,longest.reise,available,99.99,,medium,low,7,name.com,,,
 c80afc42-ee78-4e49-b45c-f772073cc4d4,let.reise,available,27.89,97.99,high,low,3,namesilo,,,
 66291b94-ef57-4cde-8905-ea97c99ad5ff,snake.reise,available,27.89,97.99,medium,low,5,namesilo,,,
@@ -635,15 +633,15 @@ e1ecd91a-3524-4620-9ece-6392db4a03c6,eremitic.reise,available,27.89,97.99,low,lo
 7b71f0cb-cba8-472a-9a97-c538ef2e4f7d,presentation.reise,available,99.99,,medium,low,12,name.com,,,
 e2aff9df-0e2b-4006-95c5-39b4b5ea57c0,medicalreport.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 7c6d68c5-79c9-475f-a19a-c26e7998c026,need.reise,available,27.89,97.99,high,low,4,namesilo,,,
-397507e4-26c0-4a81-8d67-77fab98eb70b,Adidas.reise,available,27.89,97.99,high,low,6,namesilo,,,
+397507e4-26c0-4a81-8d67-77fab98eb70b,adidas.reise,available,27.89,97.99,high,low,6,namesilo,,,
 57388342-e2ae-4d2f-a05a-7228339b6cf0,lawless.reise,available,27.89,97.99,low,low,7,namesilo,,,
-ce8d7c5d-0db5-41c9-9f45-43e6fdc9f1d7,Englishmedium.reise,available,27.89,97.99,medium,low,14,namesilo,,,
+ce8d7c5d-0db5-41c9-9f45-43e6fdc9f1d7,englishmedium.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 17651cc8-d618-406f-bf11-61e4fde946bf,hiding.reise,available,27.89,97.99,low,low,6,namesilo,,,04/09/2026 08:53
 7e965f9f-9307-4397-a1fd-4e718f95ff2b,difference.reise,available,27.89,97.99,high,low,10,namesilo,,,
 334c0e93-e15c-4bcd-8c9c-016e69535ff9,shadow.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 664871b1-dfa7-4298-8ece-ca9040fe8784,rectangle.reise,available,27.89,97.99,high,low,9,namesilo,,,
-2f74ee0d-3ef8-4582-81f3-0f5dc15aeaad,digital.reise,premium,242,242,medium,medium,7,namesilo,,,13/09/2026 10:37
-a1ed5379-fe7c-4335-9935-b85c17ebd53d,FedEx.reise,available,27.89,97.99,high,low,5,namesilo,,,
+2f74ee0d-3ef8-4582-81f3-0f5dc15aeaad,digital.reise,premium,242,242,medium,low,7,namesilo,,,19/09/2026 05:15
+a1ed5379-fe7c-4335-9935-b85c17ebd53d,fedex.reise,available,27.89,97.99,high,low,5,namesilo,,,
 643bcf11-210b-4a2a-be20-5fb997a95beb,mountain.reise,available,27.89,97.99,high,low,8,namesilo,,,
 5d2ad7dd-dae9-4a12-8d57-fa6de1346bc4,race.reise,available,99.99,,high,low,4,name.com,,,
 8bc638a4-6090-4371-bd6d-5df5cc691df4,twine.reise,available,27.89,97.99,medium,low,5,namesilo,,,
@@ -676,7 +674,7 @@ b12d94ea-6614-422d-becd-43d1f49645e7,slighting.reise,available,27.89,97.99,low,l
 6f631b8f-82f3-4b55-839a-4feafe87e0b1,sunburst.reise,available,99.99,,high,low,8,name.com,,,
 a401b52d-aff5-46a7-ae7d-f9c4fe1614e3,bayesian.reise,available,27.89,97.99,low,low,8,namesilo,,,09/08/2026 03:13
 de4149a0-59d0-4ee7-bacb-cf5760713e6e,twentyone.reise,available,99.99,122.99,high,low,10,name.com,,,
-21a39b7d-187e-43de-aa4c-ca6d10e45cb6,Ropes.reise,available,27.89,97.99,medium,low,5,namesilo,,,
+21a39b7d-187e-43de-aa4c-ca6d10e45cb6,ropes.reise,available,27.89,97.99,medium,low,5,namesilo,,,
 93a0ec38-789c-4504-9fc3-178b560269d8,luncheon.reise,available,27.89,97.99,high,low,8,namesilo,,,
 beafa0b4-9084-4166-95a1-bf0de2370475,mental.reise,available,27.89,97.99,medium,low,6,namesilo,,,08/09/2026 12:21
 693d89c3-82bd-4985-be30-ad0c84186e45,whitetea.reise,available,27.89,97.99,medium,low,9,namesilo,,,08/09/2026 06:56
@@ -699,7 +697,7 @@ bb18bf45-e517-4110-8002-8f18399311e1,grape.reise,available,99.99,,high,low,5,nam
 77179350-120a-420a-be3d-3b4367e44209,sixtytwo.reise,available,27.89,97.99,low,low,9,namesilo,,,
 8cd432d7-ff2e-4655-a3a1-2a0288bbc068,outlaw.reise,available,99.99,122.99,medium,low,6,name.com,,,
 abcd8403-8362-4367-95e7-46a82ed43f5a,religion.reise,available,27.89,97.99,high,low,8,namesilo,,,
-af947839-a926-42c5-a0e9-e9fc3c8062aa,AustraliaDay.reise,available,27.89,97.99,high,low,13,namesilo,,,
+af947839-a926-42c5-a0e9-e9fc3c8062aa,australiaday.reise,available,27.89,97.99,high,low,13,namesilo,,,
 aafc41e4-ae45-4e45-834b-b809e60c3f04,publication.reise,available,27.89,97.99,medium,low,11,namesilo,,,
 25228561-a8a9-4db4-8e5e-d7db6aff33d1,daughter.reise,available,99.99,,high,low,8,name.com,,,
 2eb7dcda-7df6-4da0-88d8-bfd85c3a64a7,between.reise,available,27.89,97.99,high,low,7,namesilo,,,
@@ -725,7 +723,7 @@ df3d1c13-148d-4de1-9327-f41e69116eb0,yellownotice.reise,available,27.89,97.99,me
 d397ded9-f10a-4035-ade6-0c07c4e2e46d,zanzibar.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 83f97751-1fbf-4943-acb5-cab68199c873,bouncy.reise,available,27.89,97.99,high,low,6,namesilo,,,
 4944e884-a6d4-42a2-9e8f-53e19195f678,yawn.reise,available,27.89,97.99,medium,low,4,namesilo,,,
-fe214b65-ae3e-4d79-b757-b7c9a7b675ea,Californian.reise,available,27.89,97.99,high,low,11,namesilo,,,
+fe214b65-ae3e-4d79-b757-b7c9a7b675ea,californian.reise,available,27.89,97.99,high,low,11,namesilo,,,
 4baef853-6a76-419d-9177-287065cea006,acinar.reise,available,27.89,97.99,low,low,6,namesilo,,,
 fa3da9e8-2c6d-49ef-acb5-ada9844b8a8b,nearpost.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 691c0917-6197-4f42-8128-17ef65dc7de5,tanks.reise,available,27.89,97.99,medium,low,5,namesilo,,,
@@ -751,7 +749,7 @@ c354318e-ab70-4686-8370-2f3217617335,actable.reise,available,99.99,122.99,low,lo
 a8402161-e912-41f7-a70e-b45440c13e09,receipt.reise,available,27.89,97.99,high,low,7,namesilo,,,
 0891bb74-3c22-489e-9a4f-a3c10348f83e,auriform.reise,available,99.99,122.99,low,low,8,name.com,,,07/08/2026 17:57
 b655bba3-561a-4900-889c-2893b86c56c2,willingness.reise,available,27.89,97.99,medium,low,11,namesilo,,,
-d5fff394-1085-4f49-b5e8-4338036dd9c8,procedure.reise,available,27.89,97.99,medium,low,9,namesilo,,,12/09/2026 04:06
+d5fff394-1085-4f49-b5e8-4338036dd9c8,procedure.reise,available,27.89,97.99,medium,low,9,namesilo,,,19/09/2026 02:44
 cbdd8852-2f02-4735-9bf8-3dcfc7aaaa8d,make.reise,available,27.89,97.99,high,medium,4,namesilo,,,
 9efd1421-6a43-4b29-a377-cf5c4fbbecfe,bearish.reise,available,27.89,97.99,low,low,7,namesilo,,,09/08/2026 04:48
 45a8d0bd-1859-407f-bbce-9a2a749fe560,replacement.reise,available,27.89,97.99,medium,low,11,namesilo,,,
@@ -762,7 +760,7 @@ e8c75703-2d7a-44f5-a4ab-299564a7c107,flyspeck.reise,available,27.89,97.99,low,lo
 ac2cdd71-bad3-4a9b-8ec7-e0e189047d60,puttogether.reise,available,27.89,97.99,medium,low,12,namesilo,,,
 c6beeaf4-17ce-4a57-8718-48ba2a37e174,nowornever.reise,available,27.89,97.99,low,low,12,namesilo,,,
 41f2e715-6e20-4016-b854-87c4efbff857,dateback.reise,available,27.89,97.99,high,low,9,namesilo,,,
-f43ada1b-1869-43a1-bfe5-29e1a5871936,TempleCity.reise,available,27.89,97.99,low,low,11,namesilo,,,
+f43ada1b-1869-43a1-bfe5-29e1a5871936,templecity.reise,available,27.89,97.99,low,low,11,namesilo,,,
 7a2e1fa8-e905-4a7b-bd37-5b1e9ac7ee19,eleventh.reise,available,27.89,97.99,low,low,8,namesilo,,,
 44c8e2b5-9aa6-49f3-86db-6e8722c4378d,inane.reise,available,27.89,97.99,low,low,5,namesilo,,,07/08/2026 02:43
 3b18d0f0-7565-411b-8b0d-5f63f7419da8,radioactivity.reise,available,27.89,97.99,low,low,13,namesilo,,,
@@ -770,7 +768,7 @@ ce1c70ec-fd69-409c-8af5-97f0c1da147a,animist.reise,available,27.89,97.99,low,low
 4759b315-185e-4009-a97e-a6b9914e57bd,northern.reise,available,27.89,97.99,high,low,8,namesilo,,,
 b26d88cd-02bc-4f54-b701-6f3218d863c0,ape.reise,available,27.89,97.99,medium,low,3,namesilo,,,
 a047cb87-cad4-4e82-9c74-e8412f80d143,deflation.reise,available,27.89,97.99,medium,low,9,namesilo,,,
-6a455fa2-6fe3-4278-8c89-b6bdced33412,pharmaceutical.reise,available,27.89,97.99,low,low,14,namesilo,,,13/09/2026 03:31
+6a455fa2-6fe3-4278-8c89-b6bdced33412,pharmaceutical.reise,available,102.98,127.98,low,low,14,namecheap,,,19/09/2026 04:12
 8a6fdeef-fa47-4499-ac9a-756adca58bdb,asynergic.reise,available,27.89,97.99,low,low,9,namesilo,,,07/08/2026 10:39
 aaa84f14-139b-4db8-8737-599e1bbb7ed7,axillary.reise,available,27.89,97.99,low,low,8,namesilo,,,
 fd4726cd-42f3-4c6c-a9d5-5554fc388831,hairy.reise,available,27.89,97.99,medium,low,5,namesilo,,,
@@ -781,7 +779,7 @@ fd4726cd-42f3-4c6c-a9d5-5554fc388831,hairy.reise,available,27.89,97.99,medium,lo
 bbcb7100-19ff-46a5-a7b9-bb3643cb2f41,happiness.reise,available,27.89,97.99,high,low,9,namesilo,,,
 557d22c4-271c-414b-81d0-2b3f62659dff,links.reise,available,99.99,,high,low,5,name.com,,,
 4383f5d3-2eb1-4a0d-81f3-17b351a7ad30,hurry.reise,available,99.99,,high,low,5,name.com,,,
-9bdff1a6-a25f-4517-9537-916b8e08b5de,journal.reise,available,27.89,97.99,medium,low,7,namesilo,,,15/09/2026 03:33
+9bdff1a6-a25f-4517-9537-916b8e08b5de,journal.reise,available,102.98,127.98,medium,low,7,namecheap,,,19/09/2026 18:05
 7056e4cd-c4ec-4ba3-acc8-2041a0bdc722,giveitupfor.reise,available,27.89,97.99,medium,low,14,namesilo,,,
 e978bf2b-802a-43dc-a5e3-bee8fb39c0af,paternal.reise,available,27.89,97.99,low,low,8,namesilo,,,
 6adb0dea-327e-4b09-8abb-35e387af27c8,thisandthat.reise,available,27.89,97.99,low,low,13,namesilo,,,
@@ -802,13 +800,13 @@ aa3d1f01-12da-41eb-a2d6-bd9cd358f591,xxxiii.reise,available,27.89,97.99,low,low,
 8e401846-fe01-4afc-94e7-157b98b05c72,virtually.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 f821340c-4edb-4fdf-a1c9-0956829f9b8e,vermifuge.reise,available,27.89,97.99,low,low,9,namesilo,,,
 4a2e534b-b5e0-4a7d-a7aa-c3b8507e0500,adpressed.reise,available,27.89,97.99,low,low,9,namesilo,,,
-28e97de3-ad13-40f1-80d7-21c0f99ce5c2,key.reise,available,27.89,97.99,medium,medium,3,namesilo,,,13/09/2026 03:47
+28e97de3-ad13-40f1-80d7-21c0f99ce5c2,key.reise,available,27.89,97.99,medium,low,3,namesilo,,,19/09/2026 11:28
 dd77dc3d-5651-4640-89ca-a7fc93fc77a5,gowithoutsaying.reise,available,27.89,97.99,high,low,17,namesilo,,,
 b37669d4-7cb0-4431-9518-fffa9e41aef3,disgrace.reise,available,27.89,97.99,high,low,8,namesilo,,,
 c385039d-2f7d-47c5-be1f-f2733e43d056,epidemic.reise,available,99.99,,high,low,8,name.com,,,
 06152c88-02ce-49f6-bd8b-a41bd9200b2d,sick.reise,available,27.89,97.99,medium,low,4,namesilo,,,
 d8b9017c-a694-4a23-983e-96dcae78ac34,resolute.reise,available,27.89,97.99,high,low,8,namesilo,,,
-8450d88f-6ccb-4d2e-a08b-f2b987bf2593,VSCOgirl.reise,available,99.99,,medium,low,9,name.com,,,
+8450d88f-6ccb-4d2e-a08b-f2b987bf2593,vscogirl.reise,available,99.99,,medium,low,9,name.com,,,
 884c3473-45fc-4930-86ed-e8c12b9cb75d,angel.reise,premium,250,,high,low,5,name.com,,,
 c8d4caf2-67a2-43be-9be6-2e362d6584ef,anappleaday.reise,available,99.99,,medium,low,14,name.com,,,
 be3dc11b-9f18-49b8-b10d-386169805639,literal.reise,available,27.89,97.99,high,low,7,namesilo,,,
@@ -830,7 +828,7 @@ e43bbf94-28f0-4cdf-844a-d71f9488bd92,dwelling.reise,available,27.89,97.99,medium
 92452380-9d7e-4c21-81d7-b6597952d065,xlviii.reise,available,27.89,97.99,low,low,6,namesilo,,,
 c2df426d-29cd-490c-88f2-e8e221e09383,progress.reise,available,99.99,122.99,high,low,8,name.com,,,
 90b77b15-627d-4e50-97ec-363ed3b3e671,interpersonal.reise,available,27.89,97.99,high,low,13,namesilo,,,
-3b496847-f8a6-4969-a6ae-d71661696f00,relief.reise,available,27.89,97.99,medium,low,6,namesilo,,,14/09/2026 01:46
+3b496847-f8a6-4969-a6ae-d71661696f00,relief.reise,available,27.89,97.99,medium,low,6,namesilo,,,19/09/2026 08:39
 3e5316c6-9df2-4ce8-b51d-4d8e1dc7fa1b,fix.reise,available,27.89,97.99,medium,low,3,namesilo,,,
 af18b5a6-b9a9-409d-b987-0eaf0d79e434,untrue.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 a820bedb-642f-4e36-955c-22f622e8c512,artificial.reise,available,99.99,,medium,low,10,name.com,,,
@@ -857,7 +855,7 @@ f9cacc48-5f11-4d85-b7eb-5d3ab1b8e922,sundress.reise,available,99.99,,high,low,8,
 e3ccc821-240a-4995-8e0d-79ea4efe112f,aborticide.reise,available,27.89,97.99,low,low,10,namesilo,,,
 3e6c1614-358c-4fc5-b9c5-7ee9dab44ca4,brute.reise,available,27.89,97.99,low,low,5,namesilo,,,
 4f3574d1-6dd2-48a6-9345-5bd816b0f1b9,cutprice.reise,available,27.89,97.99,low,low,9,namesilo,,,08/08/2026 19:26
-73b5a52b-e94e-403f-ba73-dbdc7335ac88,effort.reise,available,27.89,97.99,medium,low,6,namesilo,,,15/09/2026 00:59
+73b5a52b-e94e-403f-ba73-dbdc7335ac88,effort.reise,available,102.98,127.98,medium,low,6,namecheap,,,19/09/2026 09:55
 286f2f0a-e488-44ea-adc9-f4fc14f89368,essential.reise,available,99.99,122.99,high,low,9,name.com,,,
 ccaed531-eff3-4ab1-a7f9-cdf7f1e647c1,grandfatherinlaw.reise,available,27.89,97.99,high,low,18,namesilo,,,
 eedb43db-8080-4d8e-b5bc-fc8f896a649b,anurous.reise,available,27.89,97.99,low,low,7,namesilo,,,05/08/2026 21:27
@@ -870,10 +868,9 @@ eea4098c-111f-4a14-940b-2aacaf1f1139,unmannerly.reise,available,27.89,97.99,low,
 549cec54-a750-48d0-be12-a96ff064787e,cuisine.reise,available,99.99,,high,low,7,name.com,,,
 625d76df-b4d4-42d4-85c4-2a05b20fb27c,sulphurous.reise,available,27.89,97.99,low,low,10,namesilo,,,
 4f3efffc-b49b-49d8-aa47-98ad01a5d65b,necessarily.reise,available,27.89,97.99,medium,low,11,namesilo,,,
-2bdd793c-1dd4-46e5-a187-c05c7eca3385,canon.reise,available,,,high,low,5,,,,
 393ac9fc-30ef-4174-9e22-f190867de531,records.reise,available,27.89,97.99,low,low,7,namesilo,,,
 78cf06fc-8c84-4373-9601-0e0d0431d0ed,adolescent.reise,available,99.99,122.99,high,low,10,name.com,,,
-e88a7f61-5e18-4e02-b747-c8ceb26ee451,technology.reise,available,27.89,97.99,medium,low,10,namesilo,,,08/09/2026 02:51
+e88a7f61-5e18-4e02-b747-c8ceb26ee451,technology.reise,available,102.98,127.98,medium,low,10,namecheap,,,19/09/2026 02:35
 cc0608de-ae76-4136-98f3-1cb34825c771,earned.reise,available,99.99,122.99,high,low,6,name.com,,,
 02973edf-2e0a-4c84-ac94-dd291814178c,aneyeforaneye.reise,available,27.89,97.99,medium,low,17,namesilo,,,
 250e2711-110a-4da7-9d81-98b1ca5af2bf,hermitic.reise,available,27.89,97.99,low,low,8,namesilo,,,
@@ -882,8 +879,8 @@ d97c4316-1d85-4626-a841-a055c74a041a,littlejoe.reise,available,27.89,97.99,low,l
 27d4cb46-0bed-403d-abd5-aa5264d0d9cf,sympathy.reise,available,27.89,97.99,high,low,8,namesilo,,,
 ec166336-a405-42b6-b63d-1c17e017a84a,referable.reise,available,27.89,97.99,low,low,9,namesilo,,,07/08/2026 01:28
 faaedd77-fa02-4b12-a48b-8fff13c470e2,auditive.reise,available,27.89,97.99,low,low,8,namesilo,,,07/08/2026 16:49
-0382057a-fa10-4742-ab93-6f7702409166,Americas.reise,available,27.89,97.99,medium,low,8,namesilo,,,
-18959302-8fee-4e27-9f47-ea6719d6043a,Friends.reise,available,27.89,97.99,medium,medium,7,namesilo,,,
+0382057a-fa10-4742-ab93-6f7702409166,americas.reise,available,27.89,97.99,medium,low,8,namesilo,,,
+18959302-8fee-4e27-9f47-ea6719d6043a,friends.reise,available,27.89,97.99,medium,medium,7,namesilo,,,
 25a4f181-caa5-4fa2-b34b-eb5bcff9a96f,verbs.reise,available,27.89,97.99,low,low,5,namesilo,,,
 15a70bb4-2e96-4c54-8732-109cc21245f7,viewer.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 cffb9c9a-0509-48ed-ad3a-7396e9f8f405,safehaven.reise,available,27.89,97.99,high,low,10,namesilo,,,
@@ -964,7 +961,7 @@ b976bff3-9a4a-49a8-bdac-1e8291cd15f4,soul.reise,available,27.89,97.99,high,mediu
 abda1d9a-91c8-455c-a9ee-37b8fb8fe126,duke.reise,available,27.89,97.99,high,low,4,namesilo,,,
 d6588ca3-7ec1-4278-932b-49f306ea4c36,niece.reise,available,27.89,97.99,medium,low,5,namesilo,,,
 52d6a8fc-e39f-4fef-97e6-ed75b747f2d8,impress.reise,available,27.89,97.99,high,low,7,namesilo,,,
-b2d54e7b-a82d-4c8e-a60a-c12dde032a05,PubMed.reise,available,27.89,97.99,high,low,6,namesilo,,,
+b2d54e7b-a82d-4c8e-a60a-c12dde032a05,pubmed.reise,available,27.89,97.99,high,low,6,namesilo,,,
 84f7bbd7-f954-4bfb-89ca-fa915fd2f922,technicality.reise,available,27.89,97.99,low,low,12,namesilo,,,
 c8ad4251-fed4-4a3e-a74b-945696e7a6d8,therebe.reise,available,27.89,97.99,low,low,8,namesilo,,,
 c05231b2-9e2e-42ee-971b-8586c47d5d2d,superstar.reise,available,99.99,122.99,high,low,9,name.com,,,
@@ -977,7 +974,7 @@ d667d7e1-ed80-4eb7-9c58-394ef12b6c74,danger.reise,available,99.99,,high,low,6,na
 cad7e0e7-d99f-4e71-9cb7-8185cb3fdb14,unconvincing.reise,available,27.89,97.99,medium,low,12,namesilo,,,
 7c9dde62-607d-489f-a6f0-11f1e2bb2d66,bee.reise,available,27.89,97.99,high,medium,3,namesilo,,,
 ba64eef5-da1a-4790-b912-31e6cc5c11c8,candidacy.reise,available,27.89,97.99,high,low,9,namesilo,,,
-185027aa-8fa9-490d-8cb8-6ac5a0461ee2,GodSavetheKing.reise,available,27.89,97.99,high,low,17,namesilo,,,
+185027aa-8fa9-490d-8cb8-6ac5a0461ee2,godsavetheking.reise,available,27.89,97.99,high,low,17,namesilo,,,
 5011b06d-0ea1-4961-a410-b87e0e877488,broccoli.reise,available,99.99,,medium,low,8,name.com,,,
 fd1f9e15-315d-475f-8401-27a82dd1c6df,carry.reise,available,27.89,97.99,medium,low,5,namesilo,,,
 ba6334f2-cc2f-491a-9ed2-8fe7150eb53d,released.reise,available,27.89,97.99,low,low,8,namesilo,,,
@@ -999,3 +996,6 @@ a2fa261c-0421-4381-94b4-e86d0e226a6f,abovementioned.reise,available,27.89,97.99,
 eb3de336-e343-4722-a7ef-4c507556b29d,redemption.reise,available,27.89,97.99,medium,low,10,namesilo,,,
 3ba0fae6-143d-47f0-ad12-ccd3564dc710,ventral.reise,available,27.89,97.99,low,low,7,namesilo,,,
 7d58025a-0b89-4e9b-8fde-d22804411d2f,aphanitic.reise,available,27.89,97.99,low,low,9,namesilo,,,05/08/2026 23:01
+a45f97a1-4ed9-4c61-b800-1366c27994b1,separation.reise,available,27.89,97.99,medium,low,10,namesilo,,,
+2445887a-6cfb-4615-a1c6-743e4f44434c,asocial.reise,available,27.89,97.99,low,low,7,namesilo,,,07/08/2026 04:36
+97ab3ed2-b09e-4561-9715-3dbcfc87e5f7,import.reise,available,27.89,97.99,high,low,6,namesilo,,,
