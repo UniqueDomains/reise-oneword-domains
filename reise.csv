@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 c389871c-1b6c-4f00-8ca5-1dda06a8b008,ecru.reise,available,27.89,97.99,medium,low,4,namesilo,,,09/08/2026 12:26
 4378587f-3d03-47ef-8647-bf2fc51dc8f4,catcher.reise,available,102.98,127.98,high,low,7,namecheap,,,21/09/2026 16:05
 34e450f6-3493-4129-ae07-c464d9772fd3,rutland.reise,available,27.89,97.99,medium,low,7,namesilo,,,27/09/2026 05:16
+1b1e9a0c-312e-4681-a7a9-6c0b2c42a97e,inconvenience.reise,available,77.83,77.83,medium,low,13,spaceship,,,29/09/2026 02:52
 b8f7ff50-3bde-4d8f-b01d-60ff339a31b2,inexorable.reise,available,27.89,97.99,medium,low,10,namesilo,,,
 41d436c2-1eb3-4b7d-85db-3038fa193ca3,gratified.reise,available,99.99,122.99,high,low,9,name.com,,,20/08/2026 18:24
 7203922d-6599-4ff4-9e19-66e3c20b8656,monogamous.reise,available,27.89,97.99,high,low,10,namesilo,,,25/08/2026 05:11
@@ -21,7 +22,7 @@ ffc0d066-4f57-4680-bb72-cb23e55a2d77,chlorine.reise,available,27.89,97.99,high,l
 2ef4adff-9a74-42d1-b25a-3b0235033576,unsecured.reise,available,27.89,97.99,medium,low,9,namesilo,,,12/09/2026 01:41
 70b98d26-4903-4835-8e27-d59d81563487,cornish.reise,available,27.89,97.99,high,low,7,namesilo,,,13/08/2026 01:42
 34f7f91a-bef7-4aab-b1c9-2c781e572204,equine.reise,available,27.89,97.99,high,low,6,namesilo,,,17/08/2026 11:45
-76a88349-cc19-4ec0-b13e-7371b7b03609,piss.reise,available,27.89,97.99,high,low,4,namesilo,,,
+76a88349-cc19-4ec0-b13e-7371b7b03609,piss.reise,available,75.2,75.2,high,low,4,cloudflare,,,28/09/2026 10:21
 35e9ac6d-4fe0-4cdc-b9b0-2bfd7c6b444f,indignant.reise,available,27.89,97.99,medium,low,9,namesilo,,,22/08/2026 00:59
 996544e0-428d-4596-9ea9-035f2c1c457d,luckless.reise,available,27.89,97.99,medium,low,8,namesilo,,,24/08/2026 10:59
 ab1d2ac7-79f6-4e25-a5a8-6e870c133408,kentucky.reise,available,77.83,77.83,high,low,8,spaceship,,,28/09/2026 05:17
@@ -32,6 +33,7 @@ d8901ae1-d723-491f-821a-61ff79be66da,beefburger.reise,available,27.89,97.99,medi
 8c9898a2-1415-4491-8744-3ede904b9b0a,impression.reise,available,27.89,97.99,high,low,10,namesilo,,,
 40837233-3561-48ee-b7a3-5223189ffe0a,bph.reise,available,27.89,97.99,high,low,3,namesilo,,,23/09/2026 08:07
 10ca9448-dd20-45e0-8939-4b12383d495c,shine.reise,available,27.89,97.99,high,low,5,namesilo,,,27/09/2026 04:26
+610a7e2f-1afc-44f0-9b94-a21ab0088785,flows.reise,available,27.89,97.99,medium,low,5,namesilo,,,28/09/2026 22:43
 a291c89b-004e-44ec-a5f3-474886a73edb,fusible.reise,available,99.99,122.99,medium,low,7,name.com,,,18/08/2026 19:06
 52c77ecc-64f4-4f8a-b4f8-d4884ec2bcb4,children.reise,available,27.89,97.99,high,low,8,namesilo,,,
 99de814a-e0a1-42ff-add9-e267fb7939e2,barycenter.reise,available,27.89,97.99,medium,low,10,namesilo,,,22/09/2026 09:39
@@ -55,13 +57,16 @@ dce90d80-4da9-4c62-a485-75cfe273f6d6,cultivated.reise,available,27.89,97.99,high
 53dcb1a8-af7f-48aa-a3d2-0733a0276278,absurdity.reise,available,27.89,97.99,medium,low,9,namesilo,,,16/09/2026 18:39
 ed69c2a8-8f26-49e0-8fa0-2b83a3e248f9,tersely.reise,available,27.89,97.99,medium,low,7,namesilo,,,16/09/2026 08:13
 b4f07bdd-dc70-4e63-a4e5-d05753b2aaf5,kerry.reise,available,27.89,97.99,high,low,5,namesilo,,,28/09/2026 03:22
+3d9c751b-7303-4100-8018-f16985c51c3e,rendezvous.reise,available,102.98,127.98,high,low,10,namecheap,,,28/09/2026 20:18
 823c160a-9cbe-4527-ad8b-2809a76ff049,bighearted.reise,available,27.89,97.99,high,low,10,namesilo,,,09/08/2026 20:48
 53208860-240b-49e9-ac62-31674d72f0d5,catholic.reise,premium,242,242,high,low,8,namesilo,,,11/08/2026 22:01
 50f0063f-23a5-475a-bff9-289c91cb5619,cottage.reise,available,27.89,97.99,high,low,7,namesilo,,,24/09/2026 11:16
 2aa2c895-4cb5-4839-80d0-0bb3c6b79dec,plaudit.reise,available,99.99,122.99,high,low,7,name.com,,,16/09/2026 22:36
 fa5a1481-69e8-44ba-bf75-f7c9d6ac3d8a,workfare.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 d88a111a-7e0d-467f-b947-c0c182bed3d6,ebullient.reise,available,27.89,97.99,high,low,9,namesilo,,,14/08/2026 23:20
+af5476eb-9f9d-4115-9e15-192a61ba0da7,debra.reise,available,77.75,77.75,medium,low,5,porkbun,,,28/09/2026 16:29
 d57acad1-c4e0-4c58-b9db-dd6393b94487,leprous.reise,available,27.89,97.99,medium,low,7,namesilo,,,23/08/2026 00:12
+f4c1a0f9-1fe5-4ee2-9c5d-36223977128c,torino.reise,available,77.83,77.83,high,low,6,spaceship,,,29/09/2026 02:19
 d52dd5c8-6892-4c1a-8f86-8e384c497d47,antiviral.reise,available,99.99,122.99,high,low,9,name.com,,,05/08/2026 20:06
 d77c11d0-3c6f-45dd-873a-8603b821919f,sanction.reise,available,27.89,97.99,high,low,8,namesilo,,,03/09/2026 23:24
 7157405f-8ee9-417d-b766-886c6b8483e2,swishy.reise,available,27.89,97.99,medium,low,6,namesilo,,,11/09/2026 05:54
@@ -71,10 +76,11 @@ cdb28d09-443d-437c-8a46-97dab8571077,chalk.reise,available,77.83,77.83,high,low,
 22d978c4-cc50-457b-9c92-ab56cfbb18e5,analogist.reise,available,102.98,127.98,medium,low,9,namecheap,,,19/09/2026 01:52
 49790811-90fb-4e55-a4a2-2d0d470e8d5c,billfold.reise,available,102.98,127.98,high,low,8,namecheap,,,23/09/2026 16:16
 3fa8caa2-4287-4e43-b2e5-81b84f80d37c,podlike.reise,available,27.89,97.99,medium,low,7,namesilo,,,08/09/2026 22:31
-a02894c1-6737-45f2-b7f1-d0debffb4da5,cairo.reise,available,27.89,97.99,high,low,5,namesilo,,,
+a02894c1-6737-45f2-b7f1-d0debffb4da5,cairo.reise,available,75.2,75.2,high,low,5,cloudflare,,,28/09/2026 19:56
 e7bf6170-07bf-4203-b5b3-988bcede3daf,dryers.reise,available,27.89,97.99,medium,low,6,namesilo,,,21/09/2026 07:40
 2a659ca4-17b0-4903-9a6a-e47a3b95679c,prying.reise,available,27.89,97.99,medium,low,6,namesilo,,,03/09/2026 21:52
 14bec53f-b351-47ed-991b-7de61571e6c9,convenience.reise,available,27.89,97.99,high,low,11,namesilo,,,28/09/2026 07:18
+42a2305c-1376-474f-81ed-c821be761387,diagnosed.reise,available,102.98,127.98,medium,low,9,namecheap,,,28/09/2026 23:36
 d565e7f9-9caf-4594-a2fd-691122d1afba,algorithm.reise,available,102.98,127.98,high,low,9,namecheap,,,18/09/2026 07:16
 5bba89c7-2fff-42ce-bdea-3bfc329fe05a,catherine.reise,available,27.89,97.99,high,low,9,namesilo,,,25/09/2026 04:07
 3812b9d1-954d-4457-9c5b-fd86d89eba70,boisterous.reise,available,27.89,97.99,high,low,10,namesilo,,,10/08/2026 17:38
@@ -95,7 +101,9 @@ c7b7f0df-f404-44fc-8ca0-0dd5a064b5bc,stuck.reise,available,167.99,167.99,medium,
 c781a481-b7a3-49c2-a564-d80c4b62933d,hypotonic.reise,available,27.89,97.99,medium,low,9,namesilo,,,21/08/2026 17:19
 cb2f5760-d993-4ef9-946a-2a9abe410528,behmen.reise,available,99.99,122.99,medium,low,6,name.com,,,23/09/2026 03:43
 7bfd078c-e835-4120-af32-8c7716117d2b,avail.reise,available,27.89,97.99,high,low,5,namesilo,,,21/09/2026 08:37
-217dfbcd-131c-486c-8065-1230ba1bf312,adaptive.reise,available,27.89,97.99,high,low,8,namesilo,,,21/09/2026 16:55
+3d85a826-c5fb-4152-a3b5-101df36bc4f0,salvage.reise,available,27.89,97.99,medium,low,7,namesilo,,,28/09/2026 10:52
+217dfbcd-131c-486c-8065-1230ba1bf312,adaptive.reise,available,77.83,77.83,high,low,8,spaceship,,,28/09/2026 16:57
+94b61d66-988a-4a8f-b2dd-ff7669f6db9c,encouragement.reise,available,102.98,127.98,medium,low,13,namecheap,,,28/09/2026 22:35
 7fe1be3a-8bd9-4605-83b6-bd72210f14f0,bilinear.reise,available,99.99,122.99,high,low,8,name.com,,,09/08/2026 21:20
 a80c9213-7546-498c-91f5-95fa8f446f0a,unlocking.reise,available,27.89,97.99,high,low,9,namesilo,,,
 5a628a07-f4f0-49e1-9f78-e8949236116c,braised.reise,available,27.89,97.99,medium,low,7,namesilo,,,11/08/2026 01:55
@@ -108,21 +116,25 @@ a1943d71-7f29-4375-b93e-66f1251dde81,notified.reise,available,102.98,127.98,medi
 c7d3c630-6fd8-4dbc-b653-6f504fb18c23,grill.reise,available,27.89,97.99,high,low,5,namesilo,,,28/09/2026 05:54
 e72ea8f3-d743-4cd1-aefb-6f4719cdd395,difficulties.reise,available,102.98,127.98,high,low,12,namecheap,,,17/09/2026 21:37
 605ff392-17dd-4987-92bf-054ee32e7e62,parched.reise,available,27.89,97.99,medium,low,7,namesilo,,,
-cd474db1-c0a1-4a94-a5a8-5ab8e962e59d,brownie.reise,available,27.89,97.99,high,low,7,namesilo,,,
+cd474db1-c0a1-4a94-a5a8-5ab8e962e59d,brownie.reise,available,102.98,127.98,high,low,7,namecheap,,,29/09/2026 04:38
 d8619ce9-ecb0-4f3e-b9d2-42fae65e4941,sculpted.reise,available,99.99,122.99,high,low,8,name.com,,,20/08/2026 18:50
 b6b3e434-618b-41d2-9363-319ff48636cb,anniversary.reise,available,27.89,97.99,high,low,11,namesilo,,,
 ad19a8fb-834a-45d2-8f3d-e856bedff6a5,announce.reise,available,27.89,97.99,high,low,8,namesilo,,,
+dc469a9f-ae8b-4283-a2ba-2826afc68cfe,sidewalk.reise,available,27.89,97.99,high,low,8,namesilo,,,28/09/2026 15:21
 b3c9c26d-f042-4503-a48c-ea725615d811,stealthily.reise,available,27.89,97.99,medium,low,10,namesilo,,,16/09/2026 06:59
+613638c3-1acb-47c0-aac5-2710b8aed6e2,unavailable.reise,available,77.83,77.83,medium,low,11,spaceship,,,29/09/2026 03:22
 62b74265-5757-4845-8978-808a3c6e1d08,classify.reise,available,99.99,122.99,high,low,8,name.com,,,24/09/2026 15:20
 5fe22ddf-8624-4e27-9124-c7bceaf54330,benghazi.reise,available,102.98,127.98,medium,low,8,namecheap,,,23/09/2026 08:04
 a6a88336-1b03-4a6b-bfd8-636b7a9c0984,unchecked.reise,available,27.89,97.99,medium,low,9,namesilo,,,12/09/2026 04:32
 1ff3b77d-64e0-4b8b-8036-6314f86e7105,natives.reise,available,27.89,97.99,medium,low,7,namesilo,,,18/09/2026 01:41
 1749dd76-89fa-49af-ae90-bd418a03644a,undeclared.reise,available,27.89,97.99,medium,low,10,namesilo,,,12/09/2026 07:06
 ac02a469-872a-495a-9cd8-8285acc83d85,coventry.reise,available,27.89,97.99,medium,low,8,namesilo,,,22/09/2026 02:09
+b2a74655-01c3-4ce9-ad8a-d4302efa2036,wiggins.reise,available,77.83,77.83,high,low,7,spaceship,,,28/09/2026 16:37
 d6eb6818-be11-4bf2-b636-d0c2db628e2a,victorian.reise,available,102.98,127.98,high,low,9,namecheap,,,27/09/2026 05:38
 d0887164-2f8d-4985-93f5-0f6fd2e7c2a9,grayer.reise,available,102.98,127.98,medium,low,6,namecheap,,,21/09/2026 02:20
 0960d47d-b462-4d27-a8a3-003fc8da64d6,lactating.reise,available,99.99,122.99,medium,low,9,name.com,,,22/08/2026 18:18
-252662ad-ea62-40ac-af96-5716f7ac8221,stick.reise,available,27.89,97.99,high,low,5,namesilo,,,
+252662ad-ea62-40ac-af96-5716f7ac8221,stick.reise,available,77.83,77.83,high,low,5,spaceship,,,29/09/2026 00:24
+c6920bdf-fe2e-4550-a7fb-d44f1d83f2a8,kepler.reise,available,27.89,97.99,medium,low,6,namesilo,,,29/09/2026 01:24
 ba6e3352-8843-45a9-90f9-cd5c3a6e7ea6,damask.reise,available,99.99,122.99,medium,low,6,name.com,,,13/08/2026 16:09
 7e0d0d81-0c5b-4cf1-86c5-57c4de2786fb,lethal.reise,available,27.89,97.99,high,low,6,namesilo,,,23/08/2026 00:26
 576c6ffd-8505-438f-9af5-429a5b782cef,aphid.reise,available,27.89,97.99,medium,low,5,namesilo,,,19/09/2026 16:56
@@ -130,7 +142,7 @@ ba6e3352-8843-45a9-90f9-cd5c3a6e7ea6,damask.reise,available,99.99,122.99,medium,
 682ec9ff-bfaa-4bca-8902-231cfd1ca34f,stingy.reise,available,99.99,122.99,medium,low,6,name.com,,,24/08/2026 18:08
 d723b639-7fd0-4a3a-a84b-1317d8dbc2e8,myth.reise,available,77.83,77.83,high,low,4,spaceship,,,28/09/2026 02:27
 faafc9e2-87b2-41e2-a654-9b3a3ae48b0d,climbable.reise,available,27.89,97.99,medium,low,9,namesilo,,,07/08/2026 00:10
-7ceaed8d-0272-44a6-9432-14a80a18e751,courage.reise,available,99.99,,high,low,7,name.com,,,
+7ceaed8d-0272-44a6-9432-14a80a18e751,courage.reise,available,75.2,75.2,high,low,7,cloudflare,,,29/09/2026 04:01
 e395033f-b35b-4370-9f91-fc26d9e66209,abyssal.reise,available,27.89,97.99,medium,low,7,namesilo,,,
 a58e8522-916f-4c25-a402-13e0c94b25fd,ketchup.reise,available,102.98,127.98,high,low,7,namecheap,,,24/09/2026 13:10
 92575ef7-ddd5-497e-b6f6-2aeafa2290b6,plummet.reise,available,27.89,97.99,medium,low,7,namesilo,,,08/09/2026 21:42
@@ -139,15 +151,17 @@ a58e8522-916f-4c25-a402-13e0c94b25fd,ketchup.reise,available,102.98,127.98,high,
 fdc981d7-07d3-433c-850d-3915bf661079,welles.reise,available,27.89,97.99,high,low,6,namesilo,,,27/09/2026 04:13
 57d56560-88bb-4eb0-833b-76ad778d75c3,tobias.reise,available,27.89,97.99,high,low,6,namesilo,,,27/09/2026 07:33
 15b923ee-4eab-4913-b494-1822927d6505,fifteen.reise,available,27.89,97.99,high,low,7,namesilo,,,21/09/2026 11:44
+c68c3547-c3b6-467a-a985-678db79c5d1e,manu.reise,available,102.98,127.98,high,low,4,namecheap,,,28/09/2026 11:11
 0d75b96e-6b29-4b06-b696-47687a148605,liaise.reise,available,27.89,97.99,high,low,6,namesilo,,,22/08/2026 08:15
 522f2240-c409-4f76-b269-32519dad58e9,austerlitz.reise,available,27.89,97.99,medium,low,10,namesilo,,,21/09/2026 04:41
 33a7b873-e880-421f-9adc-f3fc9dd32d61,orleans.reise,available,27.89,97.99,high,low,7,namesilo,,,
 9aa4249b-4c73-4e07-b5eb-da5b99a7408f,cosigner.reise,available,27.89,97.99,medium,low,8,namesilo,,,13/08/2026 02:49
 e31d8c26-e34b-49ea-9a12-74e5cfe370b9,affordable.reise,available,102.98,127.98,high,low,10,namecheap,,,21/09/2026 21:59
+6f7afced-941c-4f2f-9fa0-86529191bc9d,vase.reise,available,77.83,77.83,high,low,4,spaceship,,,28/09/2026 11:03
 84c7b8b4-baf8-4f90-aadc-aa22aa41e003,unbound.reise,available,27.89,97.99,high,low,7,namesilo,,,12/09/2026 02:25
 f6a0a155-af48-4bdd-b907-676f62b4964c,agonus.reise,available,102.98,127.98,medium,low,6,namecheap,,,17/09/2026 18:59
-57bbe5eb-b653-4911-97e2-6b3d785e8409,medicine.reise,available,102.98,127.98,high,low,8,namecheap,,,25/09/2026 22:51
-d4f5b88d-db8d-49ae-b073-7d796d3f01e4,pope.reise,available,27.89,97.99,high,low,4,namesilo,,,
+57bbe5eb-b653-4911-97e2-6b3d785e8409,medicine.reise,available,77.83,77.83,high,low,8,spaceship,,,28/09/2026 15:30
+d4f5b88d-db8d-49ae-b073-7d796d3f01e4,pope.reise,available,77.83,77.83,high,low,4,spaceship,,,28/09/2026 20:19
 b4069ab3-b374-4306-9cb7-d621c8f9c921,aves.reise,available,27.89,97.99,medium,low,4,namesilo,,,21/09/2026 09:17
 9d1d9e1e-0dbb-41c0-96e7-feaf1d9566f4,ableism.reise,available,27.89,97.99,medium,low,7,namesilo,,,16/09/2026 16:10
 a5e8a0d2-43d5-45d3-8427-f3b2c8a23fa4,swarthy.reise,available,27.89,97.99,medium,low,7,namesilo,,,11/09/2026 05:25
@@ -156,6 +170,8 @@ a5e8a0d2-43d5-45d3-8427-f3b2c8a23fa4,swarthy.reise,available,27.89,97.99,medium,
 cf0d5d0f-7d8c-4f4b-9441-30f1daa39e39,tical.reise,available,102.98,127.98,high,low,5,namecheap,,,21/09/2026 18:48
 a581d25a-6af4-4821-94e4-e39cca7401dc,nassau.reise,available,27.89,97.99,high,low,6,namesilo,,,
 22d447ed-2d76-4275-9999-8d886d42d8fa,betting.reise,available,99.99,122.99,high,low,7,name.com,,,09/08/2026 18:14
+4e590a9c-95f3-4b46-b4e8-d2b91027c42e,pits.reise,available,27.89,97.99,low,low,4,namesilo,,,28/09/2026 23:33
+d17d028f-c4ac-4058-a25f-7943b72aab0a,milano.reise,available,75.2,75.2,high,low,6,cloudflare,,,28/09/2026 14:52
 07b8ec36-1ebd-4bfd-9fb9-6ba9414c0a00,rang.reise,available,27.89,97.99,medium,low,4,namesilo,,,
 002ec076-8767-4a97-8ba2-232035e12769,prat.reise,available,27.89,97.99,medium,low,4,namesilo,,,09/08/2026 11:18
 a06a4efa-e695-45f5-93d8-85c5c203441c,montagu.reise,available,27.89,97.99,medium,low,7,namesilo,,,20/09/2026 13:56
@@ -186,27 +202,32 @@ fa5d6f13-613b-418b-96cd-096f0acc76df,ovens.reise,available,27.89,97.99,medium,lo
 ad46516d-8888-430a-bb7c-2094b221ca90,heroin.reise,available,27.89,97.99,medium,low,6,namesilo,,,24/09/2026 22:03
 fff53d38-5170-4f7a-b2c8-147cf7e278fd,astute.reise,available,27.89,97.99,high,low,6,namesilo,,,22/09/2026 10:35
 002e4945-8dbd-4d3d-9c2c-6a1670f6d3f4,carpetbag.reise,available,27.89,97.99,high,low,9,namesilo,,,11/08/2026 19:44
+acda9fbe-2769-4825-b1c7-b4bc013c4296,imprisonment.reise,available,27.89,97.99,medium,low,12,namesilo,,,28/09/2026 22:40
 2c5c675f-8e79-4a93-a60c-f1a1d834cbb1,triumphant.reise,available,99.99,122.99,high,low,10,name.com,,,17/08/2026 19:56
 5f364015-2d9c-41fe-bd58-3efe5208f002,announced.reise,available,27.89,97.99,high,low,9,namesilo,,,22/09/2026 05:10
 c8d43710-ec21-48ec-b5c5-d42a34878309,poor.reise,available,27.89,97.99,medium,low,4,namesilo,,,24/09/2026 23:28
+b24f91f3-6789-4bac-a4c6-8fed85cecad0,voss.reise,available,27.89,97.99,medium,low,4,namesilo,,,29/09/2026 03:14
 b925e13e-c913-47bd-aefb-dfda6e803ae0,influent.reise,available,27.89,97.99,high,low,8,namesilo,,,22/08/2026 04:36
 2139949f-70c1-4ea3-8788-1fe2c67862b3,looking.reise,available,27.89,97.99,high,low,7,namesilo,,,25/09/2026 14:19
 c7103002-c8eb-46ba-bea5-6facc8566af7,skating.reise,available,27.89,97.99,high,low,7,namesilo,,,28/09/2026 03:06
 1fb1d0c4-e282-4ab7-ad1d-695ca6f81c13,did.reise,available,27.89,97.99,high,low,3,namesilo,,,
-b73ad5f6-4345-4e6e-873c-8d20213099da,attorney.reise,available,27.89,97.99,high,low,8,namesilo,,,
+b73ad5f6-4345-4e6e-873c-8d20213099da,attorney.reise,available,77.75,77.75,high,low,8,porkbun,,,28/09/2026 23:09
 ccefabbf-7cb5-4a10-a8f3-82b3c5b1acc2,arsonist.reise,available,27.89,97.99,medium,low,8,namesilo,,,22/08/2026 00:55
 ebd3764f-efd9-43f5-97c1-82126783fd63,untitled.reise,available,27.89,97.99,high,low,8,namesilo,,,12/09/2026 11:12
+7954dfe8-4dca-48ff-b7e5-bff9cf189ad6,dolphins.reise,available,75.2,75.2,medium,low,8,cloudflare,,,28/09/2026 18:14
 842a1d72-876e-46a5-b38f-ef6f05bb1a65,pasted.reise,available,27.89,97.99,high,low,6,namesilo,,,20/08/2026 15:14
 05df7525-2284-4437-83d7-254482c4196b,astrantia.reise,available,27.89,97.99,medium,low,9,namesilo,,,20/09/2026 17:32
 580b7b7a-cde6-45aa-8a2c-dbf9f067c23e,astronomic.reise,available,27.89,97.99,medium,low,10,namesilo,,,07/08/2026 10:10
 a6d98d44-96b5-47b1-a90e-75e2a03b309c,owing.reise,available,27.89,97.99,medium,low,5,namesilo,,,
 434f8e99-50db-4754-ae08-f6f6c662eab6,archil.reise,available,27.89,97.99,medium,low,6,namesilo,,,20/09/2026 02:06
+dbfd357f-9194-4141-a8ad-3d34cf906344,gauge.reise,available,80.47,80.47,high,low,5,dynadot,,,29/09/2026 00:50
 a22c8c65-45d7-41e6-bf5e-f202dad31dd1,slenderize.reise,available,27.89,97.99,medium,low,10,namesilo,,,10/09/2026 10:53
 1b8b5f90-87df-430c-9998-da1fd90ff292,macbook.reise,available,,,high,high,7,,,,
-083ebaf9-5181-4efa-8ad2-e5426d3fc64f,try.reise,available,27.89,97.99,high,low,3,namesilo,,,
+083ebaf9-5181-4efa-8ad2-e5426d3fc64f,try.reise,available,80.47,80.47,high,low,3,dynadot,,,28/09/2026 23:04
 134c717c-c1ec-4c08-9276-f15d4abe5671,overloaded.reise,available,102.98,127.98,medium,low,10,namecheap,,,04/09/2026 20:54
 ff258276-e585-4827-a6ba-457127d93748,algonquin.reise,available,27.89,97.99,high,low,9,namesilo,,,
 df9cb484-8f89-465a-ae0c-1ecf8d00af20,claimed.reise,available,27.89,97.99,medium,low,7,namesilo,,,27/09/2026 23:56
+2238fc39-1418-4664-b22c-02858523632e,jansen.reise,available,75.2,75.2,medium,low,6,cloudflare,,,28/09/2026 18:46
 e4d6ec14-37c0-4085-9c71-36958a27ad13,feline.reise,available,27.89,97.99,high,low,6,namesilo,,,18/08/2026 00:53
 cc0f1248-d07a-44c0-a772-1e145f21e537,inshore.reise,available,27.89,97.99,high,low,7,namesilo,,,22/08/2026 06:53
 dba60770-c960-42f4-94ff-8c5ec47447a5,fivefold.reise,available,27.89,97.99,medium,low,8,namesilo,,,18/08/2026 05:56
@@ -222,15 +243,16 @@ c04e2546-5ea5-4be4-bc95-7710116d4432,orders.reise,available,27.89,97.99,high,low
 e7b9f116-dfd5-4644-83d7-16afeecbde7a,damages.reise,available,27.89,97.99,high,low,7,namesilo,,,18/09/2026 18:40
 2d839ce5-ffad-4494-bb9b-4a035bff50ae,unfounded.reise,available,27.89,97.99,medium,low,9,namesilo,,,08/08/2026 21:57
 af7eaf51-ab01-4475-9315-d96d50ea8bfe,off.reise,available,102.98,127.98,high,low,3,namecheap,,,22/09/2026 14:54
-dce85f42-0886-48da-bcc3-e922c3982eeb,find.reise,available,167.99,167.99,high,medium,4,godaddy,,,28/09/2026 02:18
+dce85f42-0886-48da-bcc3-e922c3982eeb,find.reise,available,77.83,77.83,high,medium,4,spaceship,,,29/09/2026 04:04
 9bcdcdcb-928f-4824-b05e-af3a06e855be,anopia.reise,available,27.89,97.99,medium,low,6,namesilo,,,19/09/2026 11:39
+5217a1f0-8fd9-4144-981f-3e9a549338d7,deutsch.reise,premium,414.2,414.2,high,low,7,spaceship,,,28/09/2026 11:22
 f84e3355-bedb-4ef7-8c18-598b20595ebc,measured.reise,available,27.89,97.99,high,low,8,namesilo,,,11/08/2026 13:59
 29769dff-c021-4dd1-8547-9f88ee5ac13a,newtonian.reise,available,27.89,97.99,medium,low,9,namesilo,,,03/09/2026 16:55
 b0a4923d-c656-4e28-9310-8ddc8a49212d,pointing.reise,available,27.89,97.99,high,low,8,namesilo,,,27/09/2026 08:31
 32d62a46-cee5-4f42-80bf-6c5c8f2a9854,snarl.reise,available,27.89,97.99,medium,low,5,namesilo,,,24/08/2026 16:56
 052ec047-1f98-4200-a9fa-009d8e346824,slanted.reise,available,27.89,97.99,medium,low,7,namesilo,,,07/08/2026 04:15
 ea3c597a-e1a6-4c4d-80cf-c627b4f0c823,personnel.reise,available,75.2,75.2,high,low,9,cloudflare,,,27/09/2026 15:14
-4574bf1a-f66c-4de5-91f2-c6239c3dfda8,jock.reise,available,27.89,97.99,high,low,4,namesilo,,,
+4574bf1a-f66c-4de5-91f2-c6239c3dfda8,jock.reise,available,77.83,77.83,high,low,4,spaceship,,,28/09/2026 22:58
 0742456e-cd9d-4e71-bc11-9ed25d2266e3,ashore.reise,available,27.89,97.99,medium,low,6,namesilo,,,13/09/2026 22:07
 e5a86e12-c5f5-48a7-8748-3438817dfdde,djia.reise,available,27.89,97.99,medium,low,4,namesilo,,,
 9b8f9640-6b7d-4ac2-8719-8b6460968918,occupier.reise,available,27.89,97.99,high,low,8,namesilo,,,09/09/2026 14:58
@@ -244,7 +266,7 @@ ed92f1b9-d3b4-493b-87db-804a71272f87,edmonton.reise,available,27.89,97.99,high,l
 bc1988aa-2551-4de6-bc97-38b96363162d,straight.reise,available,27.89,97.99,high,low,8,namesilo,,,14/08/2026 08:46
 6243c42b-8a40-4ada-8819-7da2fc3c04c0,solution.reise,available,27.89,97.99,high,low,8,namesilo,,,
 64e8e2ee-6a2e-4890-a8d3-91f00d197ac1,rented.reise,available,27.89,97.99,medium,low,6,namesilo,,,17/09/2026 18:45
-1a4b7617-7ec4-4ac4-9348-401f3b4018d7,andrew.reise,available,99.99,,high,medium,6,name.com,,,
+1a4b7617-7ec4-4ac4-9348-401f3b4018d7,andrew.reise,available,80.47,80.47,high,medium,6,dynadot,,,28/09/2026 21:21
 87885ebd-126b-4734-947c-886f44cd7031,strained.reise,available,102.98,127.98,high,low,8,namecheap,,,23/09/2026 21:17
 ae49546e-05eb-4c61-8126-a26c12cfcb46,anubis.reise,available,27.89,97.99,medium,low,6,namesilo,,,19/09/2026 11:58
 b42fd7db-f143-4a11-88bf-b3ff7775dde5,awards.reise,available,27.89,97.99,medium,low,6,namesilo,,,28/09/2026 08:41
@@ -254,7 +276,7 @@ ecbee484-21cb-49a5-b64b-f6a6a16936e8,counterattack.reise,available,27.89,97.99,m
 b9454592-9e8b-49eb-af4d-366c83b7c3ca,tested.reise,available,167.99,167.99,high,low,6,godaddy,,,28/09/2026 02:20
 999b4c64-d639-4df8-ba9a-80d2eb5187ad,unimagined.reise,available,27.89,97.99,medium,low,10,namesilo,,,12/09/2026 08:26
 7b13384d-a5a1-4eb3-bc18-5a32cbac72c5,dreamer.reise,available,27.89,97.99,high,low,7,namesilo,,,24/09/2026 23:59
-d3f7576e-e052-4fc7-b23a-c906d9725320,antenna.reise,available,99.99,,high,low,7,name.com,,,
+d3f7576e-e052-4fc7-b23a-c906d9725320,antenna.reise,available,77.83,77.83,high,low,7,spaceship,,,28/09/2026 21:39
 e9047289-4d33-425e-93b4-dc3aa60f6243,argun.reise,available,102.98,127.98,medium,low,5,namecheap,,,20/09/2026 04:51
 51980c93-7640-4104-85e5-ab747628a31a,belgrade.reise,available,27.89,97.99,high,low,8,namesilo,,,23/09/2026 05:11
 7ea07a37-4041-45f8-8849-1c6cd5904559,argo.reise,available,27.89,97.99,high,low,4,namesilo,,,20/09/2026 04:30
@@ -295,13 +317,16 @@ da6dd84a-1950-4ff1-8209-14166eda7ce0,fore.reise,available,27.89,97.99,high,low,4
 c5b2b3c2-0c09-45e7-8d10-a2f7bb302e8b,barnburner.reise,available,27.89,97.99,medium,low,10,namesilo,,,22/09/2026 06:49
 8aae49d1-4cc8-4583-ae21-162114abda52,idle.reise,available,27.89,97.99,high,low,4,namesilo,,,08/08/2026 21:52
 5b95f9e6-1d6f-4dbb-a051-fa3f7223ac4a,bart.reise,available,27.89,97.99,high,low,4,namesilo,,,22/09/2026 07:32
+f893287a-eb99-430b-904b-9616ce1594f6,boulder.reise,available,75.2,75.2,high,low,7,cloudflare,,,28/09/2026 13:35
+b8cc84f6-4f66-476b-82b8-6469ceef7d20,greatness.reise,available,75.2,75.2,medium,low,9,cloudflare,,,28/09/2026 17:18
+8aa05be2-48bd-4400-a09e-7ef82bd5c70e,holliday.reise,available,75.2,75.2,high,low,8,cloudflare,,,29/09/2026 04:32
 ea2ee992-a2b0-49d0-b9f2-f3f93ce8dc74,unplug.reise,available,27.89,97.99,high,low,6,namesilo,,,
 f7610625-e88e-4783-9ca1-760800bb830c,hayseed.reise,available,27.89,97.99,medium,low,7,namesilo,,,21/08/2026 08:05
 1c8fc44d-ac42-4909-998c-44d51cdccb64,jutland.reise,available,27.89,97.99,medium,low,7,namesilo,,,22/09/2026 15:18
 6b878a9f-0eea-459b-a2c5-87200e9634f1,anisoptera.reise,available,102.98,127.98,medium,low,10,namecheap,,,19/09/2026 09:34
-887e6eef-ac95-47ae-ad5b-ec823a3037f1,absolutely.reise,available,27.89,97.99,high,low,10,namesilo,,,
+887e6eef-ac95-47ae-ad5b-ec823a3037f1,absolutely.reise,available,77.83,77.83,high,low,10,spaceship,,,28/09/2026 11:36
 9c0f848c-4ff3-4385-a02f-c4626a7eaf06,thoracic.reise,available,27.89,97.99,medium,low,8,namesilo,,,08/09/2026 12:02
-9025990c-8306-4a9c-aad2-eef69184d0ea,bra.reise,available,27.89,97.99,high,low,3,namesilo,,,
+9025990c-8306-4a9c-aad2-eef69184d0ea,bra.reise,available,27.89,97.99,high,low,3,namesilo,,,29/09/2026 00:58
 4fe31a7e-e95a-41c9-a24c-0caf63b68496,toiling.reise,available,99.99,122.99,medium,low,7,name.com,,,14/08/2026 20:00
 4e8d29f7-e36f-4ada-8a55-80c02c11e563,maroon.reise,available,27.89,97.99,high,low,6,namesilo,,,11/08/2026 06:33
 da632801-affb-4563-b45c-278e3d76232e,blab.reise,available,27.89,97.99,high,low,4,namesilo,,,23/09/2026 23:33
@@ -321,7 +346,7 @@ db504bda-0c76-4be8-83f4-e08ea59f81ba,temporal.reise,available,27.89,97.99,high,l
 4e6b8113-3483-4823-843b-1f42389d9017,travelable.reise,available,102.98,127.98,high,low,10,namecheap,,,11/09/2026 19:05
 77238af0-ccff-43ee-8ac4-2b058b4dbcce,bickering.reise,available,102.98,127.98,medium,low,9,namecheap,,,23/09/2026 13:12
 9d5e0f81-2390-4ecc-b274-b5c8894e9f1b,layman.reise,available,27.89,97.99,medium,low,6,namesilo,,,10/09/2026 01:24
-9b32bdfe-7c30-4a36-985f-0a632a5a9913,tin.reise,available,27.89,97.99,high,low,3,namesilo,,,
+9b32bdfe-7c30-4a36-985f-0a632a5a9913,tin.reise,available,102.98,127.98,high,low,3,namecheap,,,28/09/2026 23:00
 6eddd60c-9ed8-4c8b-ad90-919dcb29bd34,skipper.reise,available,75.2,75.2,high,low,7,cloudflare,,,28/09/2026 03:03
 0bd71e4c-a780-4d88-929d-aa331f56a89a,farmer.reise,available,27.89,97.99,high,low,6,namesilo,,,08/09/2026 06:02
 24c13b62-2d67-47ab-aafd-0280afdd97cc,hyoid.reise,available,27.89,97.99,medium,low,5,namesilo,,,21/08/2026 16:35
@@ -329,6 +354,7 @@ db504bda-0c76-4be8-83f4-e08ea59f81ba,temporal.reise,available,27.89,97.99,high,l
 f3ba080e-e0de-4cab-a223-0d7f9d2f40d4,cowardly.reise,available,27.89,97.99,medium,low,8,namesilo,,,13/08/2026 04:07
 a0a34164-ef6b-4627-bb66-d92297a3a34a,junior.reise,available,27.89,97.99,high,low,6,namesilo,,,25/09/2026 12:12
 ce1c70ec-fd69-409c-8af5-97f0c1da147a,animist.reise,available,27.89,97.99,medium,low,7,namesilo,,,
+7a3429c7-c30e-47ac-96b4-178f144a0db9,wilderness.reise,available,27.89,97.99,high,low,10,namesilo,,,28/09/2026 15:33
 7f7af77e-d7d3-4591-a0fc-7a49b899e869,variant.reise,available,27.89,97.99,high,low,7,namesilo,,,13/09/2026 01:15
 e88a6e85-91ff-44af-9531-986a67de0b32,prose.reise,available,27.89,97.99,high,low,5,namesilo,,,
 5ffea170-e183-4b8e-babf-75d12a9d819f,held.reise,available,27.89,97.99,high,low,4,namesilo,,,21/08/2026 06:19
@@ -363,12 +389,15 @@ c97cbb02-9e72-4baa-8f24-72a2bf8c89dd,systematically.reise,available,99.99,,mediu
 0df250aa-f00e-4d81-b8f3-ade4ed15bb77,deed.reise,available,77.83,77.83,high,low,4,spaceship,,,28/09/2026 01:46
 d678f771-6e44-4f33-96e0-1bdcfc5696ff,sure.reise,available,102.98,127.98,high,low,4,namecheap,,,24/09/2026 21:05
 16dca10e-1bfb-429a-b41a-2a2e9b0f1449,devoutly.reise,available,27.89,97.99,medium,low,8,namesilo,,,14/09/2026 12:30
+464bb788-1556-4fff-b3a6-cd20bf76d99b,slater.reise,available,77.83,77.83,medium,low,6,spaceship,,,28/09/2026 10:57
 11e23fe5-1126-49c1-a4aa-c1fa4ffb6db7,sizes.reise,available,102.98,127.98,medium,low,5,namecheap,,,19/09/2026 02:18
+fbef3533-7e72-4582-8e8d-761e26e08db2,hutchison.reise,available,77.83,77.83,medium,low,9,spaceship,,,28/09/2026 22:09
 8c55f0cb-6681-40cc-9a94-e4bdffcc5200,roommates.reise,available,27.89,97.99,medium,low,9,namesilo,,,21/09/2026 02:59
 9632d242-d769-4309-93a7-3bcc62b1be27,rod.reise,available,99.99,,high,low,3,name.com,,,
 31c1662a-ead5-4904-b444-877a4c561a35,expose.reise,available,27.89,97.99,high,low,6,namesilo,,,
 89f09079-3708-4c88-a870-6fa0f2f63011,filetype.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 671f2c38-9788-42c6-9ba0-d59ecfc8135d,scienter.reise,available,27.89,97.99,medium,low,8,namesilo,,,16/09/2026 00:44
+18b75ac6-3a5a-4b50-b074-519fca41bd1b,dora.reise,available,75.2,75.2,high,low,4,cloudflare,,,29/09/2026 03:41
 0d857867-68fc-4343-b043-f1a30739f45e,uniformly.reise,available,27.89,97.99,medium,low,9,namesilo,,,16/09/2026 10:05
 3babcd4a-b6aa-4c59-9a3d-373b64d75a6e,puppy.reise,available,77.83,77.83,high,low,5,spaceship,,,27/09/2026 15:27
 a408d47d-49bc-4dbf-a832-1a6bb351e540,richards.reise,available,27.89,97.99,high,low,8,namesilo,,,25/09/2026 07:42
@@ -384,16 +413,20 @@ ab3f95e4-47c7-4f3a-8ee3-3f2ff016a947,organize.reise,available,27.89,97.99,high,l
 82fcdefa-07dd-4db4-9012-468c11cd8311,almoner.reise,available,27.89,97.99,medium,low,7,namesilo,,,18/09/2026 12:40
 c0d7a889-24b9-42f5-b4ea-7e380d664f6e,forester.reise,available,27.89,97.99,medium,low,8,namesilo,,,20/09/2026 00:50
 7c8aa9e3-e5fb-4014-a2d4-ffedb1713d07,ranch.reise,available,27.89,97.99,high,low,5,namesilo,,,25/09/2026 22:09
+beb7a80d-8249-4394-a225-42225607e2ea,amer.reise,available,27.89,97.99,medium,low,4,namesilo,,,28/09/2026 17:41
 b075066a-2f05-48bf-ac01-a4514b8852f3,impractical.reise,available,27.89,97.99,medium,low,11,namesilo,,,
 b934852a-7771-4fc9-9a9b-95d1eea8412d,bezzant.reise,available,27.89,97.99,medium,low,7,namesilo,,,23/09/2026 12:17
 cb885190-1648-4515-a3e5-f5785fafa833,unobvious.reise,available,27.89,97.99,medium,low,9,namesilo,,,12/09/2026 16:07
 26f47e75-ffab-4223-af44-50534d16f4ac,affiliated.reise,available,27.89,97.99,high,low,10,namesilo,,,
+dae9c9e2-a679-4bdf-b67c-03aa4be7efc0,fairview.reise,available,77.83,77.83,medium,low,8,spaceship,,,28/09/2026 16:52
 d6bf3481-6174-4c83-975c-0954234eea48,croat.reise,available,27.89,97.99,medium,low,5,namesilo,,,13/08/2026 07:34
 93463cdb-ad02-4e77-90b2-9fae7e02c477,queen.reise,available,102.98,127.98,high,low,5,namecheap,,,27/09/2026 09:07
 f5a17a5e-d24b-4219-b82e-85f2fe694441,xxxviii.reise,available,27.89,97.99,medium,low,7,namesilo,,,
+f84f16e7-eaad-496e-9a85-098f33ce4815,planting.reise,available,77.83,77.83,high,low,8,spaceship,,,28/09/2026 20:12
 f08c5cfc-f1d4-4ebb-985e-7acd982b9068,ani.reise,available,27.89,97.99,high,low,3,namesilo,,,19/09/2026 08:25
 cc45f0e7-d710-4b16-bbe1-5163ac0c57ad,leaflet.reise,available,102.98,127.98,high,low,7,namecheap,,,24/09/2026 07:08
 b24ccdb5-0ba8-4f25-a6ad-fd127fbf8d3d,drome.reise,available,27.89,97.99,high,low,5,namesilo,,,17/09/2026 12:59
+3840da40-d68a-44a0-9d82-0799d3a7060d,recital.reise,available,102.98,127.98,high,low,7,namecheap,,,29/09/2026 02:00
 7320c7af-f4ae-4385-8ba6-d6b3ecbfd84a,prurient.reise,available,27.89,97.99,medium,low,8,namesilo,,,24/08/2026 11:58
 cfaea550-7025-4f7d-beb4-94afdfcb152e,douglass.reise,available,27.89,97.99,high,low,8,namesilo,,,25/09/2026 22:23
 56905ec7-57db-413b-85cd-fc1eba5d9bdb,sensate.reise,available,27.89,97.99,high,low,7,namesilo,,,10/09/2026 03:44
@@ -411,24 +444,28 @@ e972a26f-6136-43cb-ad77-14522481a9d8,loaded.reise,available,27.89,97.99,high,low
 40117c37-09a2-47b0-b5df-bf99bbd097b9,frog.reise,available,99.99,122.99,high,low,4,name.com,,,05/08/2026 21:03
 fef1d7bb-2699-4b72-9983-0d61fe9074dc,serious.reise,available,102.98,127.98,high,low,7,namecheap,,,24/09/2026 23:04
 4871c611-569c-48c3-91c5-804fe4cd6b47,motorsports.reise,available,27.89,97.99,high,low,11,namesilo,,,17/09/2026 11:52
+2908ae36-9d72-4c83-91fe-98e9293d19b1,utc.reise,available,27.89,97.99,medium,low,3,namesilo,,,28/09/2026 09:27
 6ebbdfc6-408c-45ba-ba60-88c6ac1e1c27,totipotent.reise,available,102.98,127.98,medium,low,10,namecheap,,,11/09/2026 18:12
 b856d02b-4804-46aa-9ca6-6746ee19c430,glibly.reise,available,102.98,127.98,medium,low,6,namecheap,,,14/09/2026 21:34
 85419040-c633-4581-94ba-5031a10423e3,fourthly.reise,available,27.89,97.99,medium,low,8,namesilo,,,18/08/2026 13:50
 cd145261-16e9-4b63-a0ac-00460caa1b35,torrid.reise,available,27.89,97.99,high,low,6,namesilo,,,06/08/2026 16:35
 ce81e2a4-50c9-46f7-8db2-4476698cf280,runner.reise,available,99.99,122.99,high,low,6,name.com,,,21/09/2026 22:22
+16f556ed-c799-4fdb-8660-b5b3aa1cabd2,grapes.reise,available,77.75,77.75,high,low,6,porkbun,,,28/09/2026 12:35
 88adf129-cec3-4667-89ba-da0076e2d7ab,apnea.reise,available,102.98,127.98,medium,low,5,namecheap,,,19/09/2026 18:04
 c24a4e7c-dcc7-499e-b17b-fea03067a5b8,winsome.reise,available,27.89,97.99,high,low,7,namesilo,,,13/09/2026 12:37
 9ef3a34e-9f98-4e6e-be29-05f3bd948658,ferguson.reise,available,102.98,127.98,high,low,8,namecheap,,,25/09/2026 17:55
 7a790d43-8825-4831-a848-ef88116b40a5,forest.reise,available,27.89,97.99,high,low,6,namesilo,,,19/09/2026 06:42
-65091aba-ea28-47b8-8203-e66bdb3c9e55,oxygen.reise,available,27.89,97.99,high,low,6,namesilo,,,
+65091aba-ea28-47b8-8203-e66bdb3c9e55,oxygen.reise,available,27.89,97.99,high,low,6,namesilo,,,28/09/2026 23:01
 6f64285f-98b1-4593-a920-88208c9ae1ee,deficient.reise,available,27.89,97.99,medium,low,9,namesilo,,,13/08/2026 23:22
 05e618cc-47ac-4253-8f35-d9b1fee7cc6d,stretched.reise,available,27.89,97.99,medium,low,9,namesilo,,,10/09/2026 22:34
 711118ec-dfa8-4242-9ee9-69f7b189e5fc,foreshadow.reise,available,27.89,97.99,high,low,10,namesilo,,,21/09/2026 03:32
 042e19bb-a8fa-4d32-af0c-ece306bfc0fe,lion.reise,available,27.89,97.99,high,low,4,namesilo,,,
 22319819-8daa-44fd-a620-392e579e9537,high.reise,available,102.98,127.98,high,low,4,namecheap,,,24/09/2026 13:54
 2ffb8774-0dd7-4fed-8643-9c22e22e3c8f,jamesian.reise,available,27.89,97.99,medium,low,8,namesilo,,,22/08/2026 12:13
+234b5ef2-10c6-409a-a6b1-44f1db18effa,casimir.reise,available,27.89,97.99,medium,low,7,namesilo,,,29/09/2026 03:56
 cafbc0dc-aea2-4513-9960-f98985d5f558,hypnotised.reise,available,27.89,97.99,medium,low,10,namesilo,,,17/08/2026 22:48
 89920456-57ed-4cdc-b344-08160848c095,hover.reise,available,27.89,97.99,high,low,5,namesilo,,,
+c248c6ab-4bdf-465c-aa2a-c63752ff59af,monastery.reise,available,77.83,77.83,high,low,9,spaceship,,,28/09/2026 19:54
 6a0b9a02-6736-40f8-beac-f4331437c941,gradually.reise,available,27.89,97.99,high,low,9,namesilo,,,14/09/2026 22:00
 13c9dd87-6d5d-43c9-bb87-07fe3dcfce1a,medieval.reise,available,27.89,97.99,high,low,8,namesilo,,,12/08/2026 06:12
 2dbd9660-abba-4d8f-8b0b-54058b55b936,muscle.reise,available,27.89,97.99,high,low,6,namesilo,,,24/09/2026 08:22
@@ -441,12 +478,14 @@ ecfd29c2-95fd-4ce1-9899-1c34f99c7c5d,force.reise,available,102.98,127.98,high,lo
 9a258de4-6c5c-4f00-aa26-1703c6650d05,choc.reise,available,27.89,97.99,high,low,4,namesilo,,,
 24f51fc1-0242-4aab-bab1-27a16529c6f8,barramundi.reise,available,27.89,97.99,medium,low,10,namesilo,,,20/09/2026 14:04
 d3a31e3a-10d8-41a5-8395-23dc38144b8a,rhombic.reise,available,27.89,97.99,medium,low,7,namesilo,,,09/09/2026 16:43
-8e401846-fe01-4afc-94e7-157b98b05c72,virtually.reise,available,27.89,97.99,high,low,9,namesilo,,,
+8e401846-fe01-4afc-94e7-157b98b05c72,virtually.reise,available,102.98,127.98,high,low,9,namecheap,,,28/09/2026 11:56
+07537f59-b3cd-419d-a04b-9f21ff67c169,rodrigues.reise,available,77.83,77.83,high,low,9,spaceship,,,29/09/2026 04:31
 a22a0c88-9440-4015-86bb-08119c7ec6f7,ordinal.reise,available,27.89,97.99,high,low,7,namesilo,,,04/09/2026 17:44
 f048f55c-f19c-4226-ba3d-97b1f9d3c057,aram.reise,available,27.89,97.99,medium,low,4,namesilo,,,19/09/2026 23:55
 f80a3891-dae3-4d44-80b9-792a2f5c0acf,hone.reise,available,27.89,97.99,high,low,4,namesilo,,,08/09/2026 16:29
 42e5b703-060a-491e-9481-66f27f7ee845,bittern.reise,available,27.89,97.99,medium,low,7,namesilo,,,23/09/2026 23:02
 208603b4-7eaf-4163-bb30-844b62a6abb7,pecs.reise,available,27.89,97.99,medium,low,4,namesilo,,,08/09/2026 12:11
+f0fbc9e2-b154-440b-9839-ae41ea3764c8,israelite.reise,available,77.83,77.83,high,low,9,spaceship,,,29/09/2026 01:21
 fde57a22-b861-44ef-961d-ff5f272c1f7b,revokable.reise,available,27.89,97.99,medium,low,9,namesilo,,,09/09/2026 16:23
 3fb3cafe-569a-4c65-ade3-91631442fd1d,allopathic.reise,available,27.89,97.99,medium,low,10,namesilo,,,
 71307a92-8c3f-4dde-a1ec-2afb11974532,puzzles.reise,available,102.98,127.98,medium,low,7,namecheap,,,18/09/2026 10:35
@@ -460,7 +499,7 @@ ef00db1a-fcdf-497e-9ff2-7bd2c20d8e47,remember.reise,available,27.89,97.99,high,l
 b487a3a6-b9db-4d46-9cca-9613511baa90,sulphuric.reise,available,27.89,97.99,medium,low,9,namesilo,,,11/09/2026 01:27
 99eb4ac7-9b1f-4996-aeb4-ec8818b0c9b5,ishmael.reise,available,102.98,127.98,high,low,7,namecheap,,,04/09/2026 19:10
 76be672e-74dc-4993-b979-1f17f9688624,middletown.reise,available,77.75,77.75,medium,low,10,porkbun,,,27/09/2026 21:20
-5433d5cd-a184-43be-9061-65d73630d4ee,scientist.reise,available,27.89,97.99,high,low,9,namesilo,,,25/09/2026 04:30
+5433d5cd-a184-43be-9061-65d73630d4ee,scientist.reise,available,27.89,97.99,high,low,9,namesilo,,,28/09/2026 12:32
 d2d117d4-1b35-42dd-89f9-e1ea34e6f728,gold.reise,available,102.98,127.98,high,medium,4,namecheap,,,22/09/2026 03:56
 e2b0803d-c2dc-4f93-9f99-01b45cfbf808,navy.reise,available,99.99,,high,low,4,name.com,,,
 5c7528d5-a873-45fe-bbec-5cfabe466c75,print.reise,available,27.89,97.99,high,medium,5,namesilo,,,
@@ -484,6 +523,7 @@ c5b88e70-f803-4806-8c1c-57858bbd8d30,erectile.reise,available,27.89,97.99,medium
 f4dc2898-63cd-4ee2-9a34-b63322e6de28,runs.reise,available,27.89,97.99,high,low,4,namesilo,,,17/09/2026 13:37
 ff46223f-8c1e-4093-bd7a-383d286a4d1c,steeply.reise,available,27.89,97.99,medium,low,7,namesilo,,,16/09/2026 06:59
 e50b1051-b542-4996-989b-a4353126e58c,fairfax.reise,available,27.89,97.99,high,low,7,namesilo,,,25/09/2026 15:13
+1f5e37d4-51c7-4811-8513-7e260bb52378,gertrude.reise,available,27.89,97.99,medium,low,8,namesilo,,,28/09/2026 21:50
 4d67e5c2-f74e-4bcc-8e99-4180e0e6cb81,cup.reise,available,27.89,97.99,high,low,3,namesilo,,,19/09/2026 14:42
 9bfea456-f801-49bf-a68e-bba2ccfb3c73,counseled.reise,available,27.89,97.99,medium,low,9,namesilo,,,20/09/2026 16:45
 3a64b939-1d76-4e58-b6e1-a32fa2ceb10f,gardiner.reise,available,27.89,97.99,medium,low,8,namesilo,,,25/09/2026 06:17
@@ -491,6 +531,7 @@ b9de2c5b-e1d8-413b-b38f-7e18b575da71,schedule.reise,available,77.83,77.83,high,l
 5d26d67f-e36c-4280-acd6-8b386967b4ec,bikers.reise,available,27.89,97.99,high,low,6,namesilo,,,23/09/2026 15:36
 cb4cd0c0-0598-4e2d-a694-4bd4eabf415d,bris.reise,available,27.89,97.99,high,low,4,namesilo,,,23/09/2026 09:28
 adce20ec-cdce-4300-aa48-67d6527e4d0f,checks.reise,available,102.98,127.98,medium,low,6,namecheap,,,25/09/2026 20:11
+1978c340-632c-4d97-8a88-d869652c1271,nam.reise,available,77.83,77.83,high,low,3,spaceship,,,28/09/2026 16:26
 d34993dd-9666-4675-857c-95cb9edfc5a8,bextra.reise,available,27.89,97.99,medium,low,6,namesilo,,,23/09/2026 12:09
 e12991c7-802a-467e-9f65-e92e1632a499,language.reise,available,27.89,97.99,high,low,8,namesilo,,,25/09/2026 15:54
 4a7dbb17-31e9-45a2-885b-b4bddb850b32,adoration.reise,available,27.89,97.99,high,low,9,namesilo,,,17/09/2026 09:44
@@ -507,6 +548,7 @@ dd374584-a6e6-40b9-a849-5b35b9003e9b,pitted.reise,available,27.89,97.99,medium,l
 21e29b3f-0867-48c9-b2b1-a7d5b1c8fb2c,waver.reise,available,27.89,97.99,medium,low,5,namesilo,,,17/08/2026 21:37
 264b698b-04b9-47fe-8f47-f6fcc4121d07,barricade.reise,available,102.98,127.98,medium,low,9,namecheap,,,22/09/2026 08:32
 670b2691-b7f2-473a-8ffa-e2e1aac5ce45,authority.reise,available,27.89,97.99,high,low,9,namesilo,,,17/09/2026 17:02
+9accee9a-4d3e-4162-b8bd-7c9a281b145e,toronto.reise,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 02:20
 19c56f25-3a7a-4668-aa4c-ffaeacb7f499,slugs.reise,available,27.89,97.99,medium,low,5,namesilo,,,20/09/2026 08:54
 0ebc33bc-6e5b-4346-b1b7-970ccc352cd1,claw.reise,available,27.89,97.99,high,high,4,namesilo,,,24/09/2026 15:21
 691c0917-6197-4f42-8128-17ef65dc7de5,tanks.reise,available,27.89,97.99,high,low,5,namesilo,,,
@@ -517,10 +559,12 @@ a3f9123f-057c-45de-b3fd-e264c2c3ae71,tautog.reise,available,27.89,97.99,medium,l
 34d5cbeb-0bb3-4235-b999-f0ab32b70082,coat.reise,available,27.89,97.99,high,low,4,namesilo,,,
 ae09a362-847e-4fc9-a563-030e867071fa,summoned.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 0b4fbbea-a50b-44a9-adcd-3582f38c09d4,pinochle.reise,available,102.98,127.98,medium,low,8,namecheap,,,23/09/2026 12:19
-d962f462-c4c1-4166-b93b-b27e21687324,bakery.reise,available,27.89,97.99,high,low,6,namesilo,,,25/09/2026 04:12
+d962f462-c4c1-4166-b93b-b27e21687324,bakery.reise,available,77.83,77.83,high,low,6,spaceship,,,28/09/2026 12:14
 6ad551ad-98e5-4df6-b12d-242c4f0806a9,naive.reise,available,27.89,97.99,high,low,5,namesilo,,,03/09/2026 12:50
 505901bb-9b06-4ee7-9c01-c9599865144b,partnership.reise,available,102.98,127.98,high,low,11,namecheap,,,28/09/2026 04:23
+b73ecb11-df53-4317-bf68-62eadc25cabb,obstruction.reise,available,102.98,127.98,medium,low,11,namecheap,,,28/09/2026 17:02
 da44e9f7-013c-4af9-b8c7-c6f57f91c2cf,ugly.reise,available,27.89,97.99,high,low,4,namesilo,,,24/09/2026 06:45
+7c4a00c7-2210-4b78-997f-fd697460a49d,elise.reise,available,27.89,97.99,medium,low,5,namesilo,,,28/09/2026 21:52
 6c67e4db-954d-40ae-b3c0-dbc31caf00c7,apsidal.reise,available,27.89,97.99,medium,low,7,namesilo,,,06/08/2026 10:18
 9de79255-b855-462d-aef5-1dc9221306bf,beveridge.reise,available,27.89,97.99,medium,low,9,namesilo,,,23/09/2026 12:04
 b42b6019-72b5-493a-be4a-25a31c025f39,hindi.reise,available,27.89,97.99,high,low,5,namesilo,,,21/08/2026 09:32
@@ -530,7 +574,7 @@ db8d5dc8-781e-47ef-a65c-a389e1b92a4c,planetary.reise,available,27.89,97.99,high,
 8dfc700b-cf19-48de-add3-ed349646c72e,blissfully.reise,available,27.89,97.99,high,low,10,namesilo,,,14/09/2026 00:23
 2ef6575c-463b-4676-8c37-2fc568be3bd8,agitated.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 c98301fa-ac25-42a5-b463-f8543f271bab,bawd.reise,available,99.99,122.99,medium,low,4,name.com,,,13/08/2026 14:22
-3f728595-f0c6-43e9-a7da-540d7897b512,bear.reise,available,27.89,97.99,high,low,4,namesilo,,,
+3f728595-f0c6-43e9-a7da-540d7897b512,bear.reise,available,27.89,97.99,high,medium,4,namesilo,,,29/09/2026 01:42
 f8a3221b-5f96-40da-a453-ef8db7c52eb9,ghoulish.reise,available,27.89,97.99,medium,low,8,namesilo,,,18/08/2026 23:21
 a22f37c4-bc32-4638-8133-53247ce63325,whammy.reise,available,27.89,97.99,medium,low,6,namesilo,,,21/08/2026 07:39
 e7f66fc5-e9b8-496a-994b-d79def739426,alarmed.reise,available,27.89,97.99,medium,low,7,namesilo,,,
@@ -590,6 +634,7 @@ a80a8acd-e03d-4f50-9d99-bf73b3885412,indecent.reise,available,99.99,122.99,mediu
 ae9fbadc-f66e-464e-b821-6108da8ab2e2,submit.reise,available,27.89,97.99,high,low,6,namesilo,,,27/09/2026 16:26
 a40a4cd0-5eab-4084-b630-13b6c40e8a5b,avaram.reise,available,27.89,97.99,medium,low,6,namesilo,,,21/09/2026 08:40
 2cbfdcda-a253-497d-809a-ad05f49fa933,gallium.reise,available,27.89,97.99,medium,low,7,namesilo,,,20/09/2026 22:50
+c3d6bba1-9ceb-46e4-9c11-681aa34d2a16,mounting.reise,available,102.98,127.98,medium,low,8,namecheap,,,29/09/2026 00:26
 0da97ba0-23c9-4fb4-8543-f172b05d28a0,lied.reise,available,27.89,97.99,high,low,4,namesilo,,,25/09/2026 08:58
 c65ffa22-271d-4faf-91a6-a77b109ee2be,untraveled.reise,available,27.89,97.99,medium,low,10,namesilo,,,12/09/2026 21:42
 e611c544-dc89-4369-959d-eaaca74d3473,comer.reise,available,27.89,97.99,medium,low,5,namesilo,,,20/09/2026 09:17
@@ -599,6 +644,7 @@ c2afc70e-5e55-4938-8907-903f00ce470b,scrap.reise,available,27.89,97.99,high,low,
 5c9e58d2-5b8f-43cd-bb95-62a5c97e1267,personable.reise,available,102.98,127.98,high,low,10,namecheap,,,08/09/2026 17:59
 7caf3753-6593-4907-89c0-b56214b4d937,unkempt.reise,available,27.89,97.99,medium,low,7,namesilo,,,12/09/2026 14:07
 04d4c0fc-dcaf-4b86-a180-ab355baa579f,basinet.reise,available,27.89,97.99,medium,low,7,namesilo,,,22/09/2026 10:57
+0a0eaabc-3cd0-4240-8da1-54275d7406d9,elmer.reise,available,77.83,77.83,medium,low,5,spaceship,,,29/09/2026 03:21
 8cb8d69f-9796-447b-af11-62e53907f19e,speculation.reise,available,99.99,,medium,low,11,name.com,,,
 feeea2b3-4bf9-4a61-adfd-2f55c696281b,asclepius.reise,available,27.89,97.99,medium,low,9,namesilo,,,17/09/2026 13:21
 a7e13f03-b7a5-4ff0-8e67-c7309fb7d441,moved.reise,available,27.89,97.99,high,low,5,namesilo,,,
@@ -624,6 +670,7 @@ a7fdb73a-5a02-4551-b695-277ef11e3925,soigne.reise,available,27.89,97.99,medium,l
 4af9d2ce-b92f-4797-bfbc-368a872fdd50,marrow.reise,available,27.89,97.99,high,low,6,namesilo,,,14/09/2026 23:46
 c5f6c416-d492-4c1a-84ea-a72413375c45,waive.reise,available,27.89,97.99,high,low,5,namesilo,,,18/08/2026 11:49
 6956b47e-4e30-4b76-a312-f0b920d5a57b,munificent.reise,available,99.99,122.99,high,low,10,name.com,,,22/08/2026 21:09
+ff6dfcd6-f72a-4d44-83ba-89527a0573e7,arise.reise,available,27.89,97.99,high,low,5,namesilo,,,28/09/2026 10:48
 22dee4a0-1e5a-4d57-b266-72aace803263,semipublic.reise,available,27.89,97.99,medium,low,10,namesilo,,,10/09/2026 03:17
 f20ed840-458f-4a20-9d39-109a470457c7,magnetized.reise,available,27.89,97.99,medium,low,10,namesilo,,,24/08/2026 13:04
 3cab07e7-5a25-4981-a3f2-f49678628d64,bearnaise.reise,available,102.98,127.98,medium,low,9,namecheap,,,22/09/2026 21:23
@@ -635,18 +682,22 @@ d3509699-7db0-476f-8fc6-c7ae43c517a6,boehm.reise,available,27.89,97.99,high,low,
 dd2ea62f-3bcc-4b65-91b1-4df6883443b7,variously.reise,available,27.89,97.99,medium,low,9,namesilo,,,14/09/2026 13:23
 35fa5f45-f872-419b-a4ea-e18547960ceb,captive.reise,available,27.89,97.99,high,low,7,namesilo,,,
 bdd7cc09-98fe-4e9b-ad3f-91c27abf8e81,unaddicted.reise,available,27.89,97.99,medium,low,10,namesilo,,,11/09/2026 23:50
-6f74de1e-31a9-4d94-a9f1-1b2cc3b90b2d,banking.reise,available,27.89,97.99,high,low,7,namesilo,,,
+6f74de1e-31a9-4d94-a9f1-1b2cc3b90b2d,banking.reise,available,27.89,97.99,high,low,7,namesilo,,,29/09/2026 01:02
+4bdf5ecf-14a4-4c38-bf7f-9be558dede0c,plead.reise,available,102.98,127.98,high,low,5,namecheap,,,28/09/2026 15:36
+000d8fc7-5577-44fe-953b-a8fb3324d284,protector.reise,available,27.89,97.99,high,low,9,namesilo,,,28/09/2026 13:52
 98b6afdc-01ab-4f22-a417-1c193d79a955,riemann.reise,available,27.89,97.99,high,low,7,namesilo,,,23/09/2026 09:54
 c5e2ce60-0fa5-4f49-bfd5-a8933249cb74,unbowed.reise,available,27.89,97.99,medium,low,7,namesilo,,,12/09/2026 02:27
 b680f31a-84f8-4605-9a9b-0ed1bbef7c01,adjuvant.reise,available,27.89,97.99,medium,low,8,namesilo,,,
 a6becba9-5beb-4083-b8f6-8ae7e20bea64,allargando.reise,available,27.89,97.99,medium,low,10,namesilo,,,
 eaafa6ff-977f-473d-aa1d-bd2adea6a1db,pestered.reise,available,27.89,97.99,medium,low,8,namesilo,,,21/08/2026 00:13
+cbb7851f-f8c8-4bca-bcc4-3030603a606e,zoom.reise,available,77.83,77.83,high,medium,4,spaceship,,,28/09/2026 15:12
 7c28c737-18ac-444c-bbb1-08b354b1752f,overboard.reise,available,102.98,127.98,high,low,9,namecheap,,,15/09/2026 18:25
 94ba0683-8122-4ea9-8ef4-11c97f978fb1,bandit.reise,available,27.89,97.99,high,low,6,namesilo,,,22/09/2026 01:19
 60250759-de5d-401a-a24d-2b51c1b2489a,timetables.reise,available,27.89,97.99,medium,low,10,namesilo,,,20/09/2026 12:23
 57388342-e2ae-4d2f-a05a-7228339b6cf0,lawless.reise,available,27.89,97.99,medium,low,7,namesilo,,,
 b81d4b8e-5322-4f10-ae0e-6864a61a6b64,babinski.reise,available,27.89,97.99,medium,low,8,namesilo,,,21/09/2026 12:44
 7175fe95-ba61-4bb8-b98c-fa6247d78712,talismanic.reise,available,27.89,97.99,medium,low,10,namesilo,,,11/09/2026 07:30
+3dc1d307-8ad6-4da0-b929-df75af38747a,soe.reise,available,77.83,77.83,medium,low,3,spaceship,,,28/09/2026 21:29
 4f994127-b559-44c8-a707-bbcd92e9a732,acted.reise,available,27.89,97.99,medium,low,5,namesilo,,,27/09/2026 02:34
 b1dcaedb-3835-4f2a-b712-d8039864de13,dermal.reise,available,99.99,122.99,high,low,6,name.com,,,13/08/2026 13:00
 06531d8e-28d5-4ab6-b133-31dd100f5cfe,ease.reise,available,77.83,77.83,high,low,4,spaceship,,,27/09/2026 13:14
@@ -656,15 +707,18 @@ e79a16eb-e004-46e3-a3d3-124c6532b6ae,booked.reise,available,99.99,122.99,high,lo
 6d88d867-3160-4b25-bd87-1bd508b2b42f,vivaldi.reise,available,27.89,97.99,medium,low,7,namesilo,,,19/09/2026 15:40
 fb694ab6-f880-4b9f-a60b-001110ae9eb9,tantalum.reise,available,102.98,127.98,medium,low,8,namecheap,,,20/09/2026 23:42
 2a04aaba-7710-488d-b0fd-acfa15b9bc57,cubic.reise,available,27.89,97.99,high,low,5,namesilo,,,13/08/2026 10:01
+090427b3-8d49-4ca1-905d-abb3191e5557,disposition.reise,available,77.83,77.83,high,low,11,spaceship,,,29/09/2026 02:57
 ce4fa165-2ad3-4073-8fd9-c20bde995e2d,shrugs.reise,available,102.98,127.98,medium,low,6,namecheap,,,20/09/2026 12:14
 b5240eaf-5dee-4b52-ae20-082e422ec4d6,figures.reise,available,27.89,97.99,medium,low,7,namesilo,,,
 b206e0b2-07b1-42f3-89f8-6964f30161d2,eminent.reise,available,27.89,97.99,high,low,7,namesilo,,,16/08/2026 15:06
 f6d4dcb7-7a2f-4988-b887-76cbdcf6b4b3,aardvark.reise,available,102.98,127.98,high,low,8,namecheap,,,16/09/2026 13:21
+b0870091-9c7b-4028-b2a9-05f8c8b759c0,hewlett.reise,available,77.83,77.83,medium,low,7,spaceship,,,28/09/2026 23:16
 959a63ea-743f-4424-8e01-7455ad278a27,inactive.reise,available,27.89,97.99,medium,low,8,namesilo,,,22/08/2026 00:11
 0d789450-6185-431a-bfdd-9116fc548094,epidermal.reise,available,99.99,122.99,medium,low,9,name.com,,,13/08/2026 13:06
 8dc1add1-34eb-456e-b640-7819e7577e2d,flyaway.reise,available,27.89,97.99,medium,low,7,namesilo,,,18/08/2026 08:13
 cf1e0d56-9d3e-4b5d-b44a-44aa38b0cb6e,howling.reise,available,27.89,97.99,high,low,7,namesilo,,,21/08/2026 14:24
 b3f585d1-5635-4ee2-bae5-7a331de073b8,quadruped.reise,available,27.89,97.99,medium,low,9,namesilo,,,18/08/2026 13:30
+bd2f4247-f0a8-43c4-aeeb-339267ebf798,colt.reise,available,27.89,97.99,high,low,4,namesilo,,,28/09/2026 09:25
 9dc6a6a8-9571-4244-b416-3107fcd45c11,chipper.reise,available,27.89,97.99,high,low,7,namesilo,,,12/08/2026 05:56
 6248560c-6075-4d09-b3fa-cf6afa9da1bf,wabash.reise,available,77.83,77.83,medium,low,6,spaceship,,,28/09/2026 03:15
 be59f4f8-a874-49aa-a1f5-4022c8ecc38c,gravely.reise,available,27.89,97.99,medium,low,7,namesilo,,,13/09/2026 23:09
@@ -673,8 +727,10 @@ be59f4f8-a874-49aa-a1f5-4022c8ecc38c,gravely.reise,available,27.89,97.99,medium,
 2cab74b0-294c-42bf-be8a-a6782e7fb576,pugnacious.reise,available,27.89,97.99,medium,low,10,namesilo,,,21/08/2026 00:21
 f5af4e7f-7f02-43ab-8f2c-66f113fbb034,squeaking.reise,available,27.89,97.99,medium,low,9,namesilo,,,10/09/2026 00:03
 1a8e69ec-705a-4260-9039-ca0fdad26a33,prosecutor.reise,available,27.89,97.99,high,low,10,namesilo,,,27/09/2026 05:05
+edbe5a94-2f5d-4e62-9f53-d7c889da5bd7,cylinder.reise,available,27.89,97.99,high,low,8,namesilo,,,29/09/2026 00:34
 71404eeb-d0b7-4d47-952b-06153f45810d,continuity.reise,available,102.98,127.98,high,low,10,namecheap,,,24/09/2026 17:42
 f2cadaac-f962-423b-a7dc-16a930346e22,brushed.reise,available,27.89,97.99,high,low,7,namesilo,,,11/08/2026 06:58
+a7f9786b-c81b-4409-917e-3031d2717cc0,crashing.reise,available,77.83,77.83,medium,low,8,spaceship,,,28/09/2026 11:33
 b7115708-c041-4dfb-944e-886108570fcf,goody.reise,available,99.99,122.99,high,low,5,name.com,,,13/08/2026 15:54
 38e206d6-43c3-458e-bc66-4730184a3f8d,hendrix.reise,available,80.47,80.47,high,low,7,dynadot,,,28/09/2026 05:59
 dac389fe-3034-4049-9e3d-14c6f1a2b5e0,addendum.reise,available,27.89,97.99,high,low,8,namesilo,,,17/09/2026 06:41
@@ -704,6 +760,7 @@ b8a28be4-965e-4f72-b0fb-14ede726df23,abatis.reise,available,27.89,97.99,medium,l
 5eecc335-f6fa-474c-b79c-80798ed97a33,vincent.reise,available,27.89,97.99,high,low,7,namesilo,,,25/09/2026 11:54
 8f5c0747-5c1d-4470-918d-48e134880670,nate.reise,available,27.89,97.99,high,low,4,namesilo,,,25/09/2026 13:42
 12b8f589-b7bb-422d-880e-c2eac73e3ade,genital.reise,available,27.89,97.99,medium,low,7,namesilo,,,18/08/2026 21:40
+c8761352-4714-4e9e-a76c-2c0e09beea7f,poe.reise,available,80.47,80.47,high,low,3,dynadot,,,28/09/2026 19:01
 fbaf27f5-7c91-424e-83dc-3a40efec0737,dakar.reise,available,27.89,97.99,high,low,5,namesilo,,,
 f71ea5a3-4457-4aef-9928-3a261cd3eb97,kampala.reise,available,27.89,97.99,high,low,7,namesilo,,,24/09/2026 12:28
 28b5ce8d-5ffe-43f1-9426-db8f9ca20fc5,alien.reise,available,27.89,97.99,high,medium,5,namesilo,,,
@@ -712,7 +769,7 @@ c8f76db4-8006-462a-8ce7-10e292e932d5,mavin.reise,available,27.89,97.99,high,low,
 091172e9-f1f4-48f1-bdca-dae0038e1269,tamely.reise,available,27.89,97.99,medium,low,6,namesilo,,,16/09/2026 07:53
 d43e727e-7c76-459a-b0e7-1c1f6cda2fa9,reflex.reise,available,27.89,97.99,high,low,6,namesilo,,,27/09/2026 11:10
 78293378-2aa5-48dd-9bd3-d25cd8e60f02,beadwork.reise,available,102.98,127.98,high,low,8,namecheap,,,22/09/2026 19:29
-a8273abf-bcb6-4bf3-a049-6df774a3ad56,bern.reise,available,27.89,97.99,high,low,4,namesilo,,,
+a8273abf-bcb6-4bf3-a049-6df774a3ad56,bern.reise,available,75.2,75.2,high,low,4,cloudflare,,,29/09/2026 02:12
 e5db8606-53a9-4892-832a-55a3d633c431,surprised.reise,available,75.2,75.2,high,low,9,cloudflare,,,28/09/2026 02:04
 159c4b3c-2b8a-40b6-b67d-fad8f644ad0c,outspoken.reise,available,27.89,97.99,high,low,9,namesilo,,,11/08/2026 16:45
 008525c7-ec60-451a-9a88-b2a2dac9a37b,harriman.reise,available,102.98,127.98,medium,low,8,namecheap,,,21/09/2026 09:11
@@ -734,7 +791,7 @@ d49db259-3b1f-4287-bb64-eba4e593a529,bivalent.reise,available,27.89,97.99,high,l
 e64a61a5-9863-4e52-899d-a2e944323411,seeded.reise,available,27.89,97.99,high,low,6,namesilo,,,10/09/2026 01:43
 bba90dd3-429b-407b-83fe-d702642bdd62,distribution.reise,available,77.75,77.75,high,low,12,porkbun,,,28/09/2026 04:51
 bdf022a8-8910-45be-a05f-8b2c39331d5c,uninviting.reise,available,27.89,97.99,medium,low,10,namesilo,,,12/09/2026 13:39
-3f5da382-1a63-414f-bc7c-5a7287f8b270,vanity.reise,available,27.89,97.99,high,low,6,namesilo,,,
+3f5da382-1a63-414f-bc7c-5a7287f8b270,vanity.reise,available,77.83,77.83,high,low,6,spaceship,,,28/09/2026 21:03
 8cc58897-c210-44c5-9b71-8d6720240a24,pissed.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 5d070c50-aff4-40dd-8bef-a077e7b9387f,drove.reise,available,27.89,97.99,high,low,5,namesilo,,,25/09/2026 22:29
 d84eff28-9d9e-4cc5-80b1-227bb6d2608e,verpa.reise,available,102.98,127.98,medium,low,5,namecheap,,,23/09/2026 05:34
@@ -757,7 +814,7 @@ e9fc2d66-8b6f-4bdc-bd7c-560cac659ea4,diligently.reise,available,27.89,97.99,medi
 8040b132-1f0e-4353-bc45-d1e6369abf61,arrange.reise,available,27.89,97.99,high,low,7,namesilo,,,25/09/2026 22:15
 c188731d-6a12-408e-afe1-fb34a90aa44f,nuclei.reise,available,27.89,97.99,medium,low,6,namesilo,,,
 4743af29-fff5-4fa1-bb44-10f84ee1d230,ninth.reise,available,27.89,97.99,high,low,5,namesilo,,,
-a0c4b451-5a37-4bc9-9272-311e0879d3c8,sailor.reise,available,27.89,97.99,high,low,6,namesilo,,,
+a0c4b451-5a37-4bc9-9272-311e0879d3c8,sailor.reise,available,77.83,77.83,high,low,6,spaceship,,,29/09/2026 03:02
 17ddea1a-7d5a-456a-8e5c-cc20ba26c452,algiers.reise,available,27.89,97.99,medium,low,7,namesilo,,,18/09/2026 06:59
 ce350786-d785-4939-bf37-d6293946bcff,superior.reise,available,27.89,97.99,high,low,8,namesilo,,,21/08/2026 09:12
 e50c5159-14ce-4099-a488-40f476875c0a,techniques.reise,available,27.89,97.99,medium,low,10,namesilo,,,19/09/2026 01:18
@@ -781,6 +838,7 @@ f085fb51-bdd9-473e-a35c-bfdfe6b48ba3,speciality.reise,available,27.89,97.99,high
 cee08ee9-857a-4992-96d9-9057711c6503,yeller.reise,available,102.98,127.98,medium,low,6,namecheap,,,22/09/2026 17:06
 3aaa1086-57da-464d-8828-34225e6033f7,gallican.reise,available,27.89,97.99,medium,low,8,namesilo,,,18/08/2026 19:40
 61d79527-59c3-4492-bff3-3d9a85abe91b,anglophile.reise,available,27.89,97.99,medium,low,10,namesilo,,,19/09/2026 06:52
+6e2dc9cd-b4b6-4589-917d-22032c829228,uri.reise,available,77.83,77.83,high,low,3,spaceship,,,28/09/2026 21:32
 0d7a0e9c-d90b-4a6b-90c0-8fde9b84cd5c,welsh.reise,available,27.89,97.99,high,low,5,namesilo,,,11/08/2026 15:44
 7ee69a24-bcd3-4739-838e-c28468517928,mustard.reise,available,77.83,77.83,high,low,7,spaceship,,,28/09/2026 06:28
 c7113d2c-718e-4cf9-b0ef-b4b5837e8d55,typo.reise,available,27.89,97.99,high,low,4,namesilo,,,24/08/2026 07:23
@@ -790,7 +848,7 @@ c7113d2c-718e-4cf9-b0ef-b4b5837e8d55,typo.reise,available,27.89,97.99,high,low,4
 81a04926-6aa1-4bb3-880d-cd16a70930f0,bodyguard.reise,available,27.89,97.99,high,low,9,namesilo,,,24/09/2026 06:33
 236169ca-f46a-48c7-9cf6-85c48d6e5002,prepare.reise,available,27.89,97.99,high,low,7,namesilo,,,27/09/2026 10:25
 0185ff49-89d9-4ab4-93aa-295912429df7,watchful.reise,available,27.89,97.99,high,low,8,namesilo,,,
-682843b6-f030-46c7-81b2-d7aa44e3bc5b,background.reise,available,27.89,97.99,high,low,10,namesilo,,,
+682843b6-f030-46c7-81b2-d7aa44e3bc5b,background.reise,available,102.98,127.98,high,low,10,namecheap,,,29/09/2026 00:20
 10b9442a-f169-4e57-9487-dff928827256,mammary.reise,available,27.89,97.99,medium,low,7,namesilo,,,24/08/2026 14:23
 58d676b6-fb01-4919-91ca-33485720e611,tang.reise,available,27.89,97.99,high,low,4,namesilo,,,24/09/2026 01:32
 5f5cc16b-66d4-47f7-922d-49e95b4ca161,diagnostic.reise,available,27.89,97.99,high,low,10,namesilo,,,14/08/2026 05:47
@@ -803,11 +861,11 @@ b6f2f7e1-65a5-47cc-98d5-0800365d6426,songful.reise,available,27.89,97.99,medium,
 954131b3-90fb-4568-b743-68c44daacd30,astounded.reise,available,102.98,127.98,high,low,9,namecheap,,,22/09/2026 03:42
 3f312e58-4710-434d-9525-3eeb9de0c82d,tingle.reise,available,27.89,97.99,medium,low,6,namesilo,,,11/09/2026 16:11
 8575279e-4c85-41ea-bef6-b3629fccd66d,phial.reise,available,27.89,97.99,medium,low,5,namesilo,,,18/09/2026 23:47
-7b06dce9-a64e-4e38-8761-51595a4c2379,allergist.reise,available,27.89,97.99,medium,low,9,namesilo,,,
+7b06dce9-a64e-4e38-8761-51595a4c2379,allergist.reise,available,77.83,77.83,medium,low,9,spaceship,,,28/09/2026 20:30
 c6d76991-a77b-48e3-9f13-9f42995ee720,rensselaer.reise,available,75.2,75.2,high,low,10,cloudflare,,,28/09/2026 04:19
 5f2a5039-73f6-4fd8-a0d2-5951ef836918,fallible.reise,available,99.99,122.99,medium,low,8,name.com,,,17/08/2026 21:30
 de255704-93cb-4549-a826-9c259471943e,object.reise,available,27.89,97.99,high,low,6,namesilo,,,19/09/2026 05:21
-43c64c53-436a-447e-976f-590bb45b1d30,utter.reise,available,27.89,97.99,high,low,5,namesilo,,,
+43c64c53-436a-447e-976f-590bb45b1d30,utter.reise,available,102.98,127.98,medium,low,5,namecheap,,,28/09/2026 10:04
 3a0b2e03-1b42-4b6e-9ee5-cb80d642a4e9,armed.reise,available,102.98,127.98,high,low,5,namecheap,,,22/09/2026 07:55
 24f74385-03f6-4e0b-8a5b-20b66303cd82,clinic.reise,available,27.89,97.99,high,low,6,namesilo,,,
 93e49769-b9e6-4324-8a0d-65dbd400480f,downstair.reise,available,99.99,122.99,medium,low,9,name.com,,,14/08/2026 17:57
@@ -816,7 +874,7 @@ bf29b509-978c-4dff-b3ea-664a32b610ae,loeb.reise,available,80.47,80.47,high,low,4
 a7d94134-e7d6-4d6e-b591-2418ad316195,mcdonald.reise,available,27.89,97.99,high,low,8,namesilo,,,
 2a489fe7-8fe6-4c53-9837-780c6b1ecfa7,salute.reise,available,27.89,97.99,high,low,6,namesilo,,,28/09/2026 06:25
 08cd6d51-58d2-4b3b-8229-e70ce721b053,heyday.reise,available,27.89,97.99,high,low,6,namesilo,,,18/08/2026 09:24
-6b2fd425-b4f8-488b-9960-b1c2ff2ac7be,bang.reise,available,27.89,97.99,high,low,4,namesilo,,,25/09/2026 12:31
+6b2fd425-b4f8-488b-9960-b1c2ff2ac7be,bang.reise,available,27.89,97.99,high,low,4,namesilo,,,28/09/2026 13:18
 affefd38-2284-4b78-be13-3ae41b935b32,silverbush.reise,available,102.98,127.98,medium,low,10,namecheap,,,19/09/2026 14:04
 6f73fbcd-df80-4ae6-a65f-308e6a1dfb36,surprises.reise,available,27.89,97.99,medium,low,9,namesilo,,,20/09/2026 10:56
 dc1ccc1b-cc52-42bf-8a63-21b8759c448f,symphony.reise,available,102.98,127.98,high,low,8,namecheap,,,08/09/2026 18:51
@@ -833,6 +891,7 @@ fddfb92d-2659-43e7-9dc9-7f4dfdbf0daa,ran.reise,available,27.89,97.99,high,low,3,
 e1f8c87a-71ea-4a08-b29b-717a99d3761e,restive.reise,available,27.89,97.99,medium,low,7,namesilo,,,15/08/2026 09:28
 d8039605-2867-403f-93d1-c487bce90736,spoilt.reise,available,27.89,97.99,medium,low,6,namesilo,,,10/08/2026 14:19
 58f017f7-b431-41d0-9683-88985b54849e,dickey.reise,available,27.89,97.99,medium,low,6,namesilo,,,14/08/2026 06:29
+56509afe-54ec-467d-90a9-96eb138501b2,pathology.reise,available,77.83,77.83,medium,low,9,spaceship,,,29/09/2026 01:49
 5f779306-c728-43d8-abce-5b84b272a959,headed.reise,available,27.89,97.99,high,low,6,namesilo,,,21/08/2026 01:51
 b3bdbcec-a33e-4b89-b490-ef94b64083c2,few.reise,available,27.89,97.99,high,low,3,namesilo,,,24/09/2026 17:38
 04a85c03-4773-4b38-9c56-286fb9de2460,depicted.reise,available,27.89,97.99,medium,low,8,namesilo,,,14/08/2026 02:12
@@ -841,7 +900,7 @@ c784cdca-7eb4-445d-8c64-1e9055faa086,baryta.reise,available,102.98,127.98,medium
 38f20b50-e60d-49bd-944e-fd3a4c7d99bf,astrocyte.reise,available,27.89,97.99,medium,low,9,namesilo,,,20/09/2026 17:36
 6c0d8c09-d572-43c8-b065-bda609e068f5,groundless.reise,available,27.89,97.99,medium,low,10,namesilo,,,08/08/2026 21:49
 6c94468e-7536-4365-b547-b07d21ddd6b4,marvellous.reise,available,27.89,97.99,high,low,10,namesilo,,,25/09/2026 00:14
-8098ac8d-90f9-40fc-9cc4-cfc381923b77,useless.reise,available,27.89,97.99,medium,low,7,namesilo,,,
+8098ac8d-90f9-40fc-9cc4-cfc381923b77,useless.reise,available,77.83,77.83,medium,low,7,spaceship,,,28/09/2026 10:02
 95524ca9-43b9-4c1b-86c4-b8a017b54f0c,althaea.reise,available,27.89,97.99,medium,low,7,namesilo,,,18/09/2026 14:53
 5aff7ede-cb90-4a2a-8d3f-ed85fe6525f8,disguise.reise,available,27.89,97.99,high,low,8,namesilo,,,
 5793e5e6-813a-482a-8ce6-abc516a37744,rooney.reise,available,27.89,97.99,high,low,6,namesilo,,,27/09/2026 07:48
@@ -854,11 +913,13 @@ def4c0c6-3214-43a4-b996-f3e137f695e4,resolution.reise,available,27.89,97.99,high
 c2eab68a-78d0-413c-a58c-6f084b35cd0d,walls.reise,available,27.89,97.99,high,low,5,namesilo,,,25/09/2026 16:16
 8d7dcd19-3536-44f1-be1b-940206fec746,sutherland.reise,available,27.89,97.99,high,low,10,namesilo,,,25/09/2026 04:37
 217cd638-35cc-45de-bece-d3abb5585b9a,christine.reise,available,77.83,77.83,high,low,9,spaceship,,,27/09/2026 19:02
+54ff7306-2b9b-46fb-89b9-0d7f097f39b8,terrace.reise,available,75.2,75.2,medium,low,7,cloudflare,,,28/09/2026 20:08
 1729b9cb-ddd2-4a4e-b9d4-a9b12b380276,subalpine.reise,available,27.89,97.99,medium,low,9,namesilo,,,
 e02b8388-5cdc-4fa3-b9eb-fe560065ed71,continued.reise,available,27.89,97.99,high,low,9,namesilo,,,23/09/2026 22:14
 6b876b64-4cbc-49f5-a104-86cb5a223b74,persisting.reise,available,27.89,97.99,high,low,10,namesilo,,,14/08/2026 15:05
 a12a5093-08f6-4a29-9b23-178d641c699f,donatus.reise,available,27.89,97.99,medium,low,7,namesilo,,,17/09/2026 12:26
 af629abc-d20e-426e-9a1f-4d65a0e8c394,kicks.reise,available,27.89,97.99,high,low,5,namesilo,,,18/09/2026 05:38
+3111e683-f311-4d48-9f6b-23385209898e,legends.reise,available,75.2,75.2,high,low,7,cloudflare,,,28/09/2026 18:05
 002778bf-9a92-473d-b8f7-e0aaa67173b1,abides.reise,available,102.98,127.98,medium,low,6,namecheap,,,18/09/2026 17:00
 1462aef5-762f-4357-958e-d4b43f1afa9b,scalic.reise,available,27.89,97.99,medium,low,6,namesilo,,,09/09/2026 22:27
 68d4d246-640a-41f3-9bd5-c20e880fa669,alumna.reise,available,99.99,122.99,high,low,6,name.com,,,20/08/2026 17:44
@@ -876,22 +937,24 @@ b63cea2f-d929-4b93-8dc0-9fd928429adb,county.reise,available,27.89,97.99,high,low
 2ab25a02-3125-46c7-9d32-294d8bf139f1,concerns.reise,available,102.98,127.98,medium,low,8,namecheap,,,27/09/2026 11:01
 cdd10417-51bd-4116-b650-233d26982117,rihanna.reise,available,27.89,97.99,high,low,7,namesilo,,,
 6dfc2537-581d-4935-b492-5bcad51a0851,assertion.reise,available,27.89,97.99,high,low,9,namesilo,,,20/09/2026 16:14
+5bf227c4-f3a7-4005-82ac-faf30dd4a4b7,bsa.reise,available,75.2,75.2,high,low,3,cloudflare,,,29/09/2026 02:49
 49143070-3888-49f1-b516-cdef3e803804,bolivian.reise,available,27.89,97.99,high,low,8,namesilo,,,10/08/2026 17:46
 71ef6156-2d03-4ff1-8f7a-e50dfba47627,oaten.reise,available,27.89,97.99,medium,low,5,namesilo,,,03/09/2026 23:28
 81fe92cd-aec7-4a84-b2e7-4378bcc2098a,nay.reise,available,27.89,97.99,medium,low,3,namesilo,,,15/09/2026 16:14
 0d138cad-4e43-4b29-ad09-0127f707715c,reputable.reise,available,27.89,97.99,high,low,9,namesilo,,,09/09/2026 14:45
 a6d445cc-459e-44d5-a1c3-c10fa3b7235c,venomous.reise,available,27.89,97.99,medium,low,8,namesilo,,,13/09/2026 02:08
-96eefff2-e886-4217-b9e5-bbde84405da7,drinking.reise,available,99.99,,high,low,8,name.com,,,
-69630981-7689-4a02-a219-239d87ceb4f2,butcher.reise,available,27.89,97.99,high,low,7,namesilo,,,
+96eefff2-e886-4217-b9e5-bbde84405da7,drinking.reise,available,77.83,77.83,high,low,8,spaceship,,,29/09/2026 03:42
+69630981-7689-4a02-a219-239d87ceb4f2,butcher.reise,available,77.83,77.83,medium,low,7,spaceship,,,29/09/2026 03:05
 ef03b57c-7e4f-4a57-9176-a15a7f7b12b7,gleeful.reise,available,27.89,97.99,high,low,7,namesilo,,,20/08/2026 14:21
 3e9591a7-b782-4759-b7c7-32a03d417b71,balarama.reise,available,102.98,127.98,medium,low,8,namecheap,,,21/09/2026 21:06
 06b4750d-c0c5-455a-abef-e121af5c52db,apse.reise,available,27.89,97.99,high,low,4,namesilo,,,19/09/2026 22:33
 1b663a01-66a5-4f59-83b4-d68627301b4e,blackcock.reise,available,27.89,97.99,medium,low,9,namesilo,,,24/09/2026 00:30
+ca92501c-7cb1-4d7c-b321-e3505535bbe4,madeline.reise,available,27.89,97.99,high,low,8,namesilo,,,29/09/2026 03:55
 dc5fe19d-b782-418f-be3b-5871837a1f49,blinding.reise,available,27.89,97.99,medium,low,8,namesilo,,,10/08/2026 13:42
 6d7ac9d4-ae36-4038-8ac4-754bedbd523e,counselling.reise,available,27.89,97.99,high,low,11,namesilo,,,17/09/2026 12:13
-842b00c3-f1cb-4f50-a8a6-4fde4dcb14f1,axiom.reise,available,27.89,97.99,high,medium,5,namesilo,,,
+842b00c3-f1cb-4f50-a8a6-4fde4dcb14f1,axiom.reise,available,77.83,77.83,high,medium,5,spaceship,,,28/09/2026 23:58
 fae414fa-0bce-4386-9150-7aeb8fab53e6,determines.reise,available,27.89,97.99,medium,low,10,namesilo,,,19/09/2026 23:58
-97e7ee0e-88eb-47b7-b03d-cb4c323d85a4,leisure.reise,available,102.98,127.98,high,low,7,namecheap,,,25/09/2026 04:27
+97e7ee0e-88eb-47b7-b03d-cb4c323d85a4,leisure.reise,available,27.89,97.99,high,low,7,namesilo,,,28/09/2026 12:28
 9f19dfde-f50a-47b5-9af4-dd75b201c506,discharged.reise,available,27.89,97.99,medium,low,10,namesilo,,,14/08/2026 09:49
 e21ecf10-4ccc-4f1c-8fa9-c110e99bcdba,garment.reise,available,102.98,127.98,high,low,7,namecheap,,,19/09/2026 20:02
 0473bae6-563f-4e79-af09-fdda87d086a0,ascribe.reise,available,27.89,97.99,high,low,7,namesilo,,,21/09/2026 02:19
@@ -905,6 +968,7 @@ e9eea99e-b231-4bf0-8d47-48088ccb2798,bigotry.reise,available,27.89,97.99,medium,
 27f81bba-d4b9-4e37-82f3-b5bb1af10a35,paintings.reise,available,102.98,127.98,high,low,9,namecheap,,,27/09/2026 03:04
 6388bbe3-b4e6-4fc1-9872-302a9d26fb01,proposition.reise,available,80.47,80.47,high,low,11,dynadot,,,28/09/2026 03:24
 7db7a099-c307-4e94-923d-6cd31554257a,benison.reise,available,27.89,97.99,medium,low,7,namesilo,,,23/09/2026 08:11
+9a3ede85-209d-47f3-b4e5-6c119a936256,chas.reise,available,27.89,97.99,medium,low,4,namesilo,,,28/09/2026 21:45
 ebe26c49-2992-47c4-8142-c938ae41b3fd,banian.reise,available,99.99,122.99,high,low,6,name.com,,,22/09/2026 02:05
 a7d12c9d-3c53-4e7b-834a-cf0f838d65c0,down.reise,available,27.89,97.99,high,low,4,namesilo,,,24/09/2026 11:53
 0a665172-276c-465f-89b5-6c82c7e57569,sip.reise,available,27.89,97.99,high,low,3,namesilo,,,
@@ -915,10 +979,12 @@ ba793d88-ab21-432a-9f46-908bade04ee5,biogenesis.reise,available,102.98,127.98,hi
 8e613d0a-bd3b-45a1-92c2-ffd2bdb6acc5,occult.reise,available,27.89,97.99,high,low,6,namesilo,,,03/09/2026 12:26
 8926472d-c443-48f3-bd45-a1c52f84ed28,zoo.reise,available,27.89,97.99,high,low,3,namesilo,,,26/09/2026 00:33
 f53260b0-9bbb-48ff-a02d-053121e21154,grandmothers.reise,available,102.98,127.98,medium,low,12,namecheap,,,20/09/2026 18:06
-aeacdb87-f75f-406f-8a21-dda3078c529e,briefing.reise,available,27.89,97.99,high,low,8,namesilo,,,
+aeacdb87-f75f-406f-8a21-dda3078c529e,briefing.reise,available,80.47,80.47,high,low,8,dynadot,,,29/09/2026 04:17
 763ff8d9-0232-4591-9ee8-a78b2f0245a1,piffling.reise,available,27.89,97.99,low,low,8,namesilo,,,18/08/2026 03:35
+76655ef3-a34c-408e-b966-c634476cc587,atwood.reise,available,75.2,75.2,medium,low,6,cloudflare,,,28/09/2026 18:22
 de7a7e27-41e6-48f6-b794-c8f9ac7dd25a,vernacular.reise,available,27.89,97.99,high,low,10,namesilo,,,13/09/2026 04:07
 8f04cade-7d36-4af9-a506-66232ba1265d,sara.reise,available,102.98,127.98,high,low,4,namecheap,,,25/09/2026 21:30
+e07a6220-08b6-4367-b2e1-f38dee30c3f4,gangs.reise,available,75.2,75.2,low,low,5,cloudflare,,,28/09/2026 13:19
 c0f700a9-5879-4e41-b407-bf0f1293fe8e,chomsky.reise,available,27.89,97.99,medium,low,7,namesilo,,,16/09/2026 12:59
 53583380-960e-43a0-8862-282c8ee6f1ca,banger.reise,available,27.89,97.99,high,low,6,namesilo,,,22/09/2026 01:46
 14a9bda7-b5c3-445f-9327-cdf4082e347b,mingy.reise,available,27.89,97.99,low,low,5,namesilo,,,24/08/2026 23:43
@@ -933,69 +999,3 @@ dd72d278-e260-420f-8ae5-495c90effe26,spotify.reise,available,,,high,high,7,,,,
 63c60550-77d9-4218-b885-50d533cde7dd,noah.reise,available,27.89,97.99,high,medium,4,namesilo,,,27/09/2026 04:52
 d12ee733-8561-4977-82cd-5dd95149c215,pee.reise,available,27.89,97.99,medium,low,3,namesilo,,,13/09/2026 09:51
 be0c7916-7ec1-4f5f-a8d6-a0bb8febba9e,seal.reise,available,27.89,97.99,high,low,4,namesilo,,,25/09/2026 22:00
-02a5cab7-38f0-4a99-b72a-d2ebc3df7f39,carries.reise,available,77.83,77.83,medium,low,7,spaceship,,,28/09/2026 04:37
-bdd91f96-2736-4a9b-97ea-988a6acb5e5e,doctrinal.reise,available,27.89,97.99,medium,low,9,namesilo,,,14/08/2026 14:25
-c94882f0-17c2-4679-b7fb-5164ee8c5563,mitt.reise,available,102.98,127.98,medium,low,4,namecheap,,,22/09/2026 10:08
-d9b72d6b-f6b5-430c-95ec-ff40dedae1fc,sixtieth.reise,available,27.89,97.99,medium,low,8,namesilo,,,
-2edde0de-a9f3-4611-8b46-d5dce889bf15,beeper.reise,available,27.89,97.99,high,low,6,namesilo,,,23/09/2026 01:31
-b2e7e931-91fd-4251-8d57-a79de41990e7,murderous.reise,available,27.89,97.99,medium,low,9,namesilo,,,21/08/2026 11:28
-2821f6ea-0a13-43dc-b662-2431d47116f3,erotic.reise,available,27.89,97.99,high,low,6,namesilo,,,17/08/2026 12:42
-09918c31-74a5-4b14-b85d-20fa376a393c,astern.reise,available,27.89,97.99,medium,low,6,namesilo,,,
-d13e60b1-42d5-4b3f-a19b-d542ca809cd8,gala.reise,available,27.89,97.99,high,low,4,namesilo,,,
-6dcefede-8a60-4d52-a400-ddd76d26379e,astasia.reise,available,27.89,97.99,medium,low,7,namesilo,,,20/09/2026 16:54
-404f6c21-b7da-4deb-8905-b5d9bdac6910,presents.reise,available,27.89,97.99,high,low,8,namesilo,,,08/09/2026 04:30
-0214608c-6d21-475f-80a9-6f4bd28eb06d,hypaethral.reise,available,27.89,97.99,medium,low,10,namesilo,,,21/08/2026 16:39
-d55ec103-a86c-4fda-81d0-78299a901bd9,worries.reise,available,80.47,80.47,medium,low,7,dynadot,,,28/09/2026 04:50
-5a67b4d2-ff0d-4ea4-a85a-2a3cb491b907,apogamy.reise,available,102.98,127.98,medium,low,7,namecheap,,,19/09/2026 18:27
-26871914-3eb1-4e20-ae11-10d6f9c1fda0,screwball.reise,available,27.89,97.99,medium,low,9,namesilo,,,20/08/2026 22:30
-1f23cd1a-90a5-4c22-ba61-6a07486f06ee,barrow.reise,available,27.89,97.99,medium,low,6,namesilo,,,22/09/2026 08:41
-cf570f2a-15b8-4471-8e1f-58996130f2c7,moderato.reise,available,27.89,97.99,medium,low,8,namesilo,,,25/08/2026 02:58
-fcf9e0d8-7bf9-458c-baa2-37a41a51bec4,touchstone.reise,available,27.89,97.99,high,low,10,namesilo,,,10/09/2026 18:36
-c21662d9-fdc2-48ce-9e6f-3dd1df653891,hands.reise,available,27.89,97.99,high,low,5,namesilo,,,08/09/2026 04:01
-d0cab388-c1a6-4b28-9f87-e00d1b456cbb,philosophy.reise,available,77.83,77.83,high,low,10,spaceship,,,27/09/2026 13:03
-469dd684-433e-47cd-b2a3-b944d0aaf475,tip.reise,available,27.89,97.99,high,low,3,namesilo,,,25/09/2026 13:19
-62a54d35-137c-4ce8-b1e9-0d4625f06e6d,vegetative.reise,available,27.89,97.99,medium,low,10,namesilo,,,13/09/2026 01:44
-a0ae9141-abc7-4560-a510-f93b6c67859e,dent.reise,available,27.89,97.99,high,low,4,namesilo,,,24/09/2026 21:54
-2ca5239b-8c0c-41b8-b535-5a81cd8ba867,onion.reise,available,27.89,97.99,high,low,5,namesilo,,,
-dbb4db54-422d-417b-8cf2-afa307596ed0,alertly.reise,available,27.89,97.99,medium,low,7,namesilo,,,13/09/2026 18:40
-3a38183e-6709-44b2-a57e-18542d4bf1ce,necked.reise,available,27.89,97.99,medium,low,6,namesilo,,,03/09/2026 14:40
-569a85ba-fe9e-470d-8919-c82350f995b8,barnum.reise,available,27.89,97.99,medium,low,6,namesilo,,,22/09/2026 06:55
-2a96d30c-9c30-4398-b053-23b14fa2dd7d,oaken.reise,available,27.89,97.99,medium,low,5,namesilo,,,03/09/2026 23:26
-a6cecbb7-35a7-4f15-86fb-b4c73e71b6dc,mercenary.reise,available,27.89,97.99,high,low,9,namesilo,,,24/08/2026 17:14
-6e5754ba-8c77-48b2-8cd8-d03a81a87a03,refuse.reise,available,27.89,97.99,medium,low,6,namesilo,,,27/09/2026 02:42
-88a80b60-fda7-46d0-9296-fc15d8964697,firstly.reise,available,27.89,97.99,medium,low,7,namesilo,,,24/09/2026 18:41
-fa252fd2-d1b2-4bc5-83a7-6948b7e00431,uneducated.reise,available,27.89,97.99,medium,low,10,namesilo,,,12/09/2026 08:53
-78df6fad-429e-4bdc-b153-3f4fe485200b,mantic.reise,available,27.89,97.99,medium,low,6,namesilo,,,14/08/2026 13:48
-d9286f3b-7be3-449c-98f5-e103f6b31b04,misguided.reise,available,99.99,122.99,medium,low,9,name.com,,,21/08/2026 18:57
-65ef58a6-5cc7-483b-8202-0257171aaaba,sooty.reise,available,27.89,97.99,medium,low,5,namesilo,,,12/08/2026 13:47
-a3072d78-a914-417a-a83c-a12dc723c210,sweetish.reise,available,27.89,97.99,high,low,8,namesilo,,,11/09/2026 05:36
-efdabd21-ce3a-4638-a988-e092e8fffa68,nigerien.reise,available,27.89,97.99,medium,low,8,namesilo,,,03/09/2026 17:14
-f7842ee0-18eb-4c59-93bb-35fe51985e58,hobble.reise,available,27.89,97.99,medium,low,6,namesilo,,,23/08/2026 13:26
-8cd432d7-ff2e-4655-a3a1-2a0288bbc068,outlaw.reise,available,27.89,97.99,high,low,6,namesilo,,,24/09/2026 01:45
-b04c446a-2103-43e1-959f-478432e4eed3,folks.reise,available,27.89,97.99,high,low,5,namesilo,,,24/09/2026 16:34
-1ebf8c24-f522-45b0-8ccf-982755066064,returns.reise,available,27.89,97.99,high,low,7,namesilo,,,17/09/2026 17:19
-0039a560-7bb2-4a14-a573-b1b8e834c233,sunstruck.reise,available,27.89,97.99,medium,low,9,namesilo,,,11/09/2026 02:01
-e7eef21b-1043-439c-8b62-72ad34edde5b,beings.reise,available,27.89,97.99,medium,low,6,namesilo,,,27/09/2026 02:57
-7668fc39-5ff1-4cd8-90b9-9b8354c0bcb3,hateful.reise,available,27.89,97.99,medium,low,7,namesilo,,,21/08/2026 01:18
-dec7b5a1-f112-4ce6-876c-277e24320a56,lumpish.reise,available,27.89,97.99,medium,low,7,namesilo,,,24/08/2026 11:12
-50542689-c7ac-4303-b710-0132a72749c3,policy.reise,available,27.89,97.99,high,low,6,namesilo,,,
-a2440e15-78f4-4e2a-96f4-ec479c3ec6f8,slug.reise,available,102.98,127.98,high,low,4,namecheap,,,23/09/2026 13:52
-0601be9b-e3a2-4a15-bcb4-d162380f3fcf,bevel.reise,available,102.98,127.98,medium,low,5,namecheap,,,23/09/2026 11:58
-9003f6f8-d78e-42f8-97df-d5854019ffc0,amplifiers.reise,available,27.89,97.99,medium,low,10,namesilo,,,17/09/2026 07:12
-29946826-cf07-4db1-aea8-e0f933922840,albinism.reise,available,27.89,97.99,medium,low,8,namesilo,,,18/09/2026 02:54
-44aab372-3d5d-4a11-b1a3-885e798350fb,migrant.reise,available,27.89,97.99,high,low,7,namesilo,,,24/08/2026 22:47
-dc6d8e4f-4e6c-4063-8555-843920daa4df,walpole.reise,available,27.89,97.99,medium,low,7,namesilo,,,28/09/2026 01:54
-74053c7f-52d0-4269-bad2-12b276a582c5,fake.reise,available,27.89,97.99,high,low,4,namesilo,,,08/08/2026 23:02
-c0444588-3510-4957-83e1-ca098e8a78e3,potter.reise,available,77.83,77.83,high,low,6,spaceship,,,27/09/2026 12:23
-5076e416-8fef-44c2-bfac-b5df5c446082,viennese.reise,available,27.89,97.99,high,low,8,namesilo,,,13/09/2026 05:30
-704f2dda-be72-4a63-b608-e4a729c361a6,apocope.reise,available,102.98,127.98,medium,low,7,namecheap,,,19/09/2026 18:11
-0ad402cb-758a-4e38-83ca-635a08d71c98,gainly.reise,available,27.89,97.99,medium,low,6,namesilo,,,18/08/2026 19:33
-1e78452e-2315-4eb0-8366-e7cbea9aee12,hysteria.reise,available,102.98,127.98,high,low,8,namecheap,,,24/09/2026 21:43
-6b898c93-5011-4eae-9156-1ba4be1c4b28,shorted.reise,available,102.98,127.98,medium,low,7,namecheap,,,20/09/2026 16:13
-7cc4f935-3df6-4ba9-8600-2a251be7684a,limestone.reise,available,27.89,97.99,high,low,9,namesilo,,,
-9dc6e751-dba1-49cd-b88f-e6b2152a614d,homy.reise,available,27.89,97.99,high,low,4,namesilo,,,21/08/2026 11:08
-9304818f-e9e8-474e-a107-708e030562dc,incurably.reise,available,27.89,97.99,medium,low,9,namesilo,,,15/09/2026 07:45
-5bce38ba-c5db-4869-8b05-c92b41d0e88e,justices.reise,available,27.89,97.99,medium,low,8,namesilo,,,20/09/2026 11:20
-4b7de3bf-54b7-432d-bbd2-80dfe454bd1d,ferdinand.reise,available,27.89,97.99,high,low,9,namesilo,,,25/09/2026 05:57
-069ba857-9db3-4d59-8ad3-ee7d5442e261,programs.reise,available,27.89,97.99,medium,low,8,namesilo,,,28/09/2026 08:58
-6828ad8d-49f4-40ce-a201-e1f83dcb1690,gift.reise,available,27.89,97.99,high,low,4,namesilo,,,24/09/2026 22:20
